@@ -1,0 +1,13 @@
+                   
+front, back,
+.front, .back        {  display: block; border: thin solid black;
+                    padding-top: 1in; padding-bottom: 0in; padding-right: 0.25in; padding-left: 0.25in;
+                    margin-top: 1em; page-break-inside:avoid; height: 3in; width: 5in }
+headword, .headword {  display: block; font-family: serif; font-weight: bold;
+font-size: 140% }
+def, .def           {  display: block; font-size: 120%; margin-top: 0.5in }
+poS, .poS           {  display: block; font-style: italic; margin-top: 0.5in }
+front pos,
+.front .poS         {  float: right; padding-right: 0.25in; color: grey }
+cat, .cat           {  display: inline-block; font-weight: bold; font-size: 90%; font-family: sans-serif }
+frq, .frq           {  display: inline-block; float: right; padding-right: 0.25in }

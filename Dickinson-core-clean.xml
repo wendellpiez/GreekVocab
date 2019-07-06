@@ -1,0 +1,3671 @@
+<?xml-stylesheet type="text/css" href="flashcards.css" title="Flashcards" alternate="no"?>
+<Dickinson-core-list>
+  <entry>
+    <dsp>ὁ ἡ τό</dsp>
+    <def>the</def>
+    <poS>definite article</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>1</frq>
+  </entry>
+  <entry>
+    <dsp>αὐτός αὐτή αὐτό</dsp>
+    <def>him- her- itself etc. (for emphasis); the same (with article); (pron.) him, her, it etc. (in oblique cases)</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>2</frq>
+  </entry>
+  <entry>
+    <dsp>καί</dsp>
+    <def>and, also, even; καί...καί both...and</def>
+    <poS>conjunction: coordinating</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>3</frq>
+  </entry>
+  <entry>
+    <dsp>δέ</dsp>
+    <def>and; but</def>
+    <poS>conjunction: coordinating</poS>
+    <cat>Particles</cat>
+    <frq>4</frq>
+  </entry>
+  <entry>
+    <dsp>τίς τί</dsp>
+    <def>who? what? which? (interrog. pron./adj.)</def>
+    <poS>pronoun</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>5</frq>
+  </entry>
+  <entry>
+    <dsp>εἰμί, ἔσομαι, impf. ἦν, infin. εἶναι</dsp>
+    <def>be, exist</def>
+    <poS>verb: irregular</poS>
+    <cat>Humanity and Being</cat>
+    <frq>6</frq>
+  </entry>
+  <entry>
+    <dsp>οὗτος αὕτη τοῦτο</dsp>
+    <def>this, these; μετὰ ταῦτα after this</def>
+    <poS>pronoun</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>7</frq>
+  </entry>
+  <entry>
+    <dsp>ἤ</dsp>
+    <def>or; than (after a comparative); ἤ...ἤ either...or</def>
+    <poS>conjunction: coordinating</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>8</frq>
+  </entry>
+  <entry>
+    <dsp>ἐν</dsp>
+    <def>in, among (+dat.)</def>
+    <poS>preposition</poS>
+    <cat>Direction</cat>
+    <frq>9</frq>
+  </entry>
+  <entry>
+    <dsp>μέν...δέ</dsp>
+    <def>on the one hand...on the other hand (often untranslated); μέν (by itself) indeed</def>
+    <poS>conjunction: coordinating</poS>
+    <cat>Particles</cat>
+    <frq>10</frq>
+  </entry>
+  <entry>
+    <dsp>τις τι</dsp>
+    <def>someone, something, anyone, anything, some, any (enclitic indef. pron./adj.)</def>
+    <poS>pronoun</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>11</frq>
+  </entry>
+  <entry>
+    <dsp>ὅς ἥ ὅ</dsp>
+    <def>who, which, that</def>
+    <poS>pronoun</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>12</frq>
+  </entry>
+  <entry>
+    <dsp>γάρ</dsp>
+    <def>for (explanatory), indeed, in fact (confirming)</def>
+    <poS>conjunction: coordinating</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>13</frq>
+  </entry>
+  <entry>
+    <dsp>οὐ, οὐκ, οὐχ</dsp>
+    <def>not (with indicative verbs)</def>
+    <poS>adverb</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>14</frq>
+  </entry>
+  <entry>
+    <dsp>λέγω, ἐρῶ, εἶπον, εἴρηκα, λέλεγμαι, ἐλέχθην and ἐρρήθην</dsp>
+    <def>say, speak (of), recount; pick up, collect, count</def>
+    <poS>verb: -ω palatal stem</poS>
+    <cat>Writing and Talking</cat>
+    <frq>15</frq>
+  </entry>
+  <entry>
+    <dsp>ὡς</dsp>
+    <def>as, since; (introducing purpose clause) so that (+subj./opt.); (introducing indir. statement) that</def>
+    <poS>conjunction: subordinating</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>16</frq>
+  </entry>
+  <entry>
+    <dsp>τε</dsp>
+    <def>and; τε…τε both…and</def>
+    <poS>conjunction: coordinating</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>17</frq>
+  </entry>
+  <entry>
+    <dsp>εἰς</dsp>
+    <def>into, to, towards (+acc.)</def>
+    <poS>preposition</poS>
+    <cat>Direction</cat>
+    <frq>18</frq>
+  </entry>
+  <entry>
+    <dsp>ἐπί</dsp>
+    <def>at (+gen.); on (+dat.); on to, against (+acc.)</def>
+    <poS>preposition</poS>
+    <cat>Direction</cat>
+    <frq>19</frq>
+  </entry>
+  <entry>
+    <dsp>κατά</dsp>
+    <def>down, down (from or along), throughout, according to; κατὰ γῆν by land; κατὰ φύσιν in accordance with nature; κατ’ ἔθνη by nations; καθ᾿ἕνα one by one.</def>
+    <poS>preposition</poS>
+    <cat>Direction</cat>
+    <frq>20</frq>
+  </entry>
+  <entry>
+    <dsp>ἐγώ ἐμοῦ, (pl.) ἡμεῖς, ἡμῶν</dsp>
+    <def>I, we</def>
+    <poS>pronoun</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>21</frq>
+  </entry>
+  <entry>
+    <dsp>πρός</dsp>
+    <def>from the side of, in the presence of (+gen.); near, at, in addition to (+dat.); to, towards, in relation to (+acc.)</def>
+    <poS>preposition</poS>
+    <cat>Direction</cat>
+    <frq>22</frq>
+  </entry>
+  <entry>
+    <dsp>γίγνομαι, γενήσομαι, 2 aor. ἐγενόμην, γέγονα, γεγένημαι, ἐγενήθην</dsp>
+    <def>become; be born; happen, be</def>
+    <poS>verb: deponent</poS>
+    <cat>Humanity and Being</cat>
+    <frq>23</frq>
+  </entry>
+  <entry>
+    <dsp>ἐάν (εἰ-ἄν)</dsp>
+    <def>if (+subj.)</def>
+    <poS>conjunction: subordinating</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>24</frq>
+  </entry>
+  <entry>
+    <dsp>διά</dsp>
+    <def>through, during, because of (+gen., acc.)</def>
+    <poS>preposition</poS>
+    <cat>Prepositions without Direction</cat>
+    <frq>25</frq>
+  </entry>
+  <entry>
+    <dsp>ἀλλά</dsp>
+    <def>but</def>
+    <poS>conjunction: coordinating</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>26</frq>
+  </entry>
+  <entry>
+    <dsp>πᾶς πᾶσα πᾶν</dsp>
+    <def>every, all; whole (with article)</def>
+    <poS>noun: 3rd declension irregular</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>27</frq>
+  </entry>
+  <entry>
+    <dsp>ἔχω, ἕξω or σχήσω, 2 aor. ἔσχον, ἔσχηκα, impf. εἶχον</dsp>
+    <def>have, hold, keep</def>
+    <poS>verb: -ω palatal stem</poS>
+    <cat>Taking and Giving</cat>
+    <frq>28</frq>
+  </entry>
+  <entry>
+    <dsp>ἐκ, ἐξ</dsp>
+    <def>from, out of (+gen.)</def>
+    <poS>preposition</poS>
+    <cat>Direction</cat>
+    <frq>29</frq>
+  </entry>
+  <entry>
+    <dsp>πολύς πολλή πολύ</dsp>
+    <def>much, many; ὡς ἐπὶ τὸ πολύ for the most part</def>
+    <poS>noun: 3rd declension irregular</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>30</frq>
+  </entry>
+  <entry>
+    <dsp>περί</dsp>
+    <def>around, about; concerning (+gen.)</def>
+    <poS>preposition</poS>
+    <cat>Direction</cat>
+    <frq>31</frq>
+  </entry>
+  <entry>
+    <dsp>μή</dsp>
+    <def>not (marks the negative as subjective or conditional); εἰ μή if not, except</def>
+    <poS>conjunction: subordinating</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>32</frq>
+  </entry>
+  <entry>
+    <dsp>ὅστις ἥτις ὅ τι</dsp>
+    <def>anyone who, anything which; (in indir. quest.) who, which, what</def>
+    <poS>pronoun</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>33</frq>
+  </entry>
+  <entry>
+    <dsp>ἄν</dsp>
+    <def>[marks verbs as potential (with optative), or generalizing (with subjunctive)]</def>
+    <poS>adverb</poS>
+    <cat>Particles</cat>
+    <frq>34</frq>
+  </entry>
+  <entry>
+    <dsp>σύ, σοῦ, (pl.) ὑμεῖς, ὑμῶν</dsp>
+    <def>you</def>
+    <poS>pronoun</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>35</frq>
+  </entry>
+  <entry>
+    <dsp>ἀνά</dsp>
+    <def>up, on; throughout</def>
+    <poS>preposition</poS>
+    <cat>Direction</cat>
+    <frq>36</frq>
+  </entry>
+  <entry>
+    <dsp>ὅτι</dsp>
+    <def>because, that; (with superl.) as...as possible</def>
+    <poS>conjunction: subordinating</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>37</frq>
+  </entry>
+  <entry>
+    <dsp>εἰ</dsp>
+    <def>if (+indic. or opt.); εἴπερ if indeed</def>
+    <poS>conjunction: subordinating</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>38</frq>
+  </entry>
+  <entry>
+    <dsp>ἄλλος ἄλλη ἄλλο</dsp>
+    <def>other, another</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>39</frq>
+  </entry>
+  <entry>
+    <dsp>ἀπό</dsp>
+    <def>from (+gen.)</def>
+    <poS>preposition</poS>
+    <cat>Direction</cat>
+    <frq>40</frq>
+  </entry>
+  <entry>
+    <dsp>φημί, φήσω, impf. ἔφην</dsp>
+    <def>say, assert, declare; οὐ φημί deny, refuse, say that...not</def>
+    <poS>verb: -μι</poS>
+    <cat>Writing and Talking</cat>
+    <frq>41</frq>
+  </entry>
+  <entry>
+    <dsp>ὑπό</dsp>
+    <def>under (+gen., dat.); by (+gen. of personal agent); down under (+acc.)</def>
+    <poS>preposition</poS>
+    <cat>Direction</cat>
+    <frq>42</frq>
+  </entry>
+  <entry>
+    <dsp>ποιέω, ποιήσω, ἐποίησα, πεποίηκα, πεποίημαι, ἐποιήθην</dsp>
+    <def>make, produce, cause, do; (mid.) consider, reckon</def>
+    <poS>verb: contracted</poS>
+    <cat>Work and Leisure</cat>
+    <frq>43</frq>
+  </entry>
+  <entry>
+    <dsp>οὖν</dsp>
+    <def>therefore, accordingly; at any rate</def>
+    <poS>adverb</poS>
+    <cat>Particles</cat>
+    <frq>44</frq>
+  </entry>
+  <entry>
+    <dsp>λόγος λόγου, ὁ</dsp>
+    <def>word, speech, discourse; thought, reason, account</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Writing and Talking</cat>
+    <frq>45</frq>
+  </entry>
+  <entry>
+    <dsp>παρά</dsp>
+    <def>from (+gen.); beside (+dat.); to, to the side of, contrary to (+acc.)</def>
+    <poS>preposition</poS>
+    <cat>Direction</cat>
+    <frq>46</frq>
+  </entry>
+  <entry>
+    <dsp>οὕτως</dsp>
+    <def>in this way</def>
+    <poS>adverb</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>47</frq>
+  </entry>
+  <entry>
+    <dsp>πρότερος προτέρα πρότερον</dsp>
+    <def>before, earlier; τὸ πρότερον previously, before</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Time</cat>
+    <frq>48</frq>
+  </entry>
+  <entry>
+    <dsp>θεός θεοῦ, ὁ/ἡ</dsp>
+    <def>god, goddess</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Religion</cat>
+    <frq>49</frq>
+  </entry>
+  <entry>
+    <dsp>μετά</dsp>
+    <def>with (+gen.); after (+acc.)</def>
+    <poS>preposition</poS>
+    <cat>Prepositions without Direction</cat>
+    <frq>50</frq>
+  </entry>
+  <entry>
+    <dsp>ἑαυτοῦ ἑαυτῆς ἑαυτοῦ</dsp>
+    <def>him- her- itself (reflexive pron.)</def>
+    <poS>pronoun</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>51</frq>
+  </entry>
+  <entry>
+    <dsp>μέγας μεγάλη μέγα</dsp>
+    <def>big, great, powerful</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>52</frq>
+  </entry>
+  <entry>
+    <dsp>οὐδέ</dsp>
+    <def>and not, but not, nor; οὐδέ...οὐδέ not even...nor yet</def>
+    <poS>conjunction: coordinating</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>53</frq>
+  </entry>
+  <entry>
+    <dsp>ἐκεῖνος ἐκείνη ἐκεῖνο</dsp>
+    <def>that person or thing; ἐκεῖνος…οὗτος the former…the latter</def>
+    <poS>pronoun</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>54</frq>
+  </entry>
+  <entry>
+    <dsp>τοιοῦτος τοιαύτη τοιοῦτο</dsp>
+    <def>such, of such a sort</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>55</frq>
+  </entry>
+  <entry>
+    <dsp>οὐδείς οὐδεμία οὐδέν</dsp>
+    <def>no one, nothing</def>
+    <poS>pronoun</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>56</frq>
+  </entry>
+  <entry>
+    <dsp>εἶπον</dsp>
+    <def>I said, I spoke, 2 aor. → λέγω, φημί</def>
+    <poS>verb: irregular</poS>
+    <cat>Writing and Talking</cat>
+    <frq>57</frq>
+  </entry>
+  <entry>
+    <dsp>ἀγαθός –ή –όν</dsp>
+    <def>good, virtuous, brave, noble</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Ethics and Morals</cat>
+    <frq>58</frq>
+  </entry>
+  <entry>
+    <dsp>γε</dsp>
+    <def>(enclitic) indeed; at least, at any rate</def>
+    <poS>adverb</poS>
+    <cat>Particles</cat>
+    <frq>59</frq>
+  </entry>
+  <entry>
+    <dsp>δή</dsp>
+    <def>surely, really, now, in fact, indeed (gives greater exactness)</def>
+    <poS>adverb</poS>
+    <cat>Particles</cat>
+    <frq>60</frq>
+  </entry>
+  <entry>
+    <dsp>πόλις πόλεως, ἡ</dsp>
+    <def>city, city-state</def>
+    <poS>noun: 3rd declension ι-stem</poS>
+    <cat>Government and Society</cat>
+    <frq>61</frq>
+  </entry>
+  <entry>
+    <dsp>εἷς μία ἕν</dsp>
+    <def>one</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>62</frq>
+  </entry>
+  <entry>
+    <dsp>ἵημι, ἥσω, ἧκα, -εἷκα, εἷμαι, -εἵθην</dsp>
+    <def>put in motion, let go, shoot; (mid.) hasten, rush</def>
+    <poS>verb: -μι</poS>
+    <cat>Work and Leisure</cat>
+    <frq>63</frq>
+  </entry>
+  <entry>
+    <dsp>δέω, δεήσω, ἐδέησα, δεδέηκα, δεδέημαι, ἐδεήθην</dsp>
+    <def>lack, miss, stand in need of (+gen.)</def>
+    <poS>verb: contracted</poS>
+    <cat>Taking and Giving</cat>
+    <frq>64</frq>
+  </entry>
+  <entry>
+    <dsp>ἄνθρωπος –ου, ὁ/ἡ</dsp>
+    <def>human being</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Humanity and Being</cat>
+    <frq>65</frq>
+  </entry>
+  <entry>
+    <dsp>ὁράω, ὄψομαι, 2 aor. εἶδον, ἑόρακα and ἑώρακα, ὤφθην, impf. ἑώρων</dsp>
+    <def>see, look (to)</def>
+    <poS>verb: contracted</poS>
+    <cat>The Senses and Feelings</cat>
+    <frq>66</frq>
+  </entry>
+  <entry>
+    <dsp>μόνος μόνη μόνον</dsp>
+    <def>alone, single</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>67</frq>
+  </entry>
+  <entry>
+    <dsp>οὔτε...οὔτε</dsp>
+    <def>neither...nor</def>
+    <poS>conjunction: coordinating</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>68</frq>
+  </entry>
+  <entry>
+    <dsp>οἷος οἵα οἷον</dsp>
+    <def>such as, of what sort, like, (exclam.) what a!, how! ; οἷός τε (+infin.) fit or able to; οἷόν τε (+infin.) it is possible to</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>69</frq>
+  </entry>
+  <entry>
+    <dsp>λαμβάνω, λήψομαι, ἔλαβον, εἴληφα, εἴλημμαι, ἐλήφθην</dsp>
+    <def>take, grasp, seize; receive, get</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>Taking and Giving</cat>
+    <frq>70</frq>
+  </entry>
+  <entry>
+    <dsp>δοκέω, δόξω, ἔδοξα</dsp>
+    <def>think, suppose, imagine (+acc. and infin.); seem, seem good; (impers.) δοκεῖ μοι it seems to me</def>
+    <poS>verb: -ω palatal stem</poS>
+    <cat>The Mind, Perceiving and Learning</cat>
+    <frq>71</frq>
+  </entry>
+  <entry>
+    <dsp>ἕτερος ἑτέρα ἕτερον</dsp>
+    <def>the other (of two); other, another</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>72</frq>
+  </entry>
+  <entry>
+    <dsp>κακός –ή –όν</dsp>
+    <def>bad, wicked, cowardly</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Characteristics</cat>
+    <frq>73</frq>
+  </entry>
+  <entry>
+    <dsp>ἀνήρ ἀνδρός, ὁ</dsp>
+    <def>man, husband</def>
+    <poS>noun: 3rd declension irregular</poS>
+    <cat>Humanity and Being</cat>
+    <frq>74</frq>
+  </entry>
+  <entry>
+    <dsp>ἐπεί</dsp>
+    <def>after, since, when</def>
+    <poS>conjunction: subordinating</poS>
+    <cat>Time</cat>
+    <frq>75</frq>
+  </entry>
+  <entry>
+    <dsp>ὅσος ὅση ὅσον</dsp>
+    <def>however much; as great as; (in pl.) as many as; ὅσον (adv.) as much as</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>76</frq>
+  </entry>
+  <entry>
+    <dsp>καλέω, καλῶ, ἐκάλεσα, κέκληκα, κέκλημαι, ἐκλήθην</dsp>
+    <def>call, summon</def>
+    <poS>verb: contracted</poS>
+    <cat>Writing and Talking</cat>
+    <frq>77</frq>
+  </entry>
+  <entry>
+    <dsp>σῶμα σώματος, τό</dsp>
+    <def>body</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>Body Parts</cat>
+    <frq>78</frq>
+  </entry>
+  <entry>
+    <dsp>δεῖ, δεήσει, impf. ἔδει</dsp>
+    <def>it is necessary, one must, one ought (+acc. and infin.)</def>
+    <poS>verb: impersonal</poS>
+    <cat>Ethics and Morals</cat>
+    <frq>79</frq>
+  </entry>
+  <entry>
+    <dsp>ὥσπερ</dsp>
+    <def>just as, as if</def>
+    <poS>conjunction: subordinating</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>80</frq>
+  </entry>
+  <entry>
+    <dsp>δίδωμι, δώσω, ἔδωκα, δέδωκα, δέδομαι, ἐδόθην</dsp>
+    <def>give, grant, offer</def>
+    <poS>verb: -μι</poS>
+    <cat>Taking and Giving</cat>
+    <frq>81</frq>
+  </entry>
+  <entry>
+    <dsp>ἔτι</dsp>
+    <def>still, yet</def>
+    <poS>adverb</poS>
+    <cat>Time</cat>
+    <frq>82</frq>
+  </entry>
+  <entry>
+    <dsp>φύσις φύσεως, ἡ</dsp>
+    <def>nature; (of the mind) one’s nature or disposition; regular order of nature</def>
+    <poS>noun: 3rd declension ι-stem</poS>
+    <cat>World Order</cat>
+    <frq>83</frq>
+  </entry>
+  <entry>
+    <dsp>μικρός –ά –όν</dsp>
+    <def>small, little, short</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>84</frq>
+  </entry>
+  <entry>
+    <dsp>δύναμαι, δυνήσομαι, ἐδυνήθην, δεδύνημαι</dsp>
+    <def>(+infin.) to be able (to), be strong enough (to)</def>
+    <poS>verb: impersonal</poS>
+    <cat>Work and Leisure</cat>
+    <frq>85</frq>
+  </entry>
+  <entry>
+    <dsp>ὥστε</dsp>
+    <def>(introducing natural or actual result clause) so as, so that, (with the result) that</def>
+    <poS>conjunction: subordinating</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>86</frq>
+  </entry>
+  <entry>
+    <dsp>ἀρχή ἀρχῆς, ἡ</dsp>
+    <def>beginning, origin; rule, empire, realm; magistracy</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Time</cat>
+    <frq>87</frq>
+  </entry>
+  <entry>
+    <dsp>ἕκαστος ἑκάστη ἕκαστον</dsp>
+    <def>each (of several)</def>
+    <poS>pronoun</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>88</frq>
+  </entry>
+  <entry>
+    <dsp>ἡμέρα ἡμέρας, ἡ</dsp>
+    <def>day</def>
+    <poS>noun: 1st declension</poS>
+    <cat>World Order</cat>
+    <frq>89</frq>
+  </entry>
+  <entry>
+    <dsp>φύω, φύσω, ἔφυσα</dsp>
+    <def>bring forth, produce, beget; 2 aor. ἔφυν grew, pf. πέφυκα be by nature</def>
+    <poS>verb: -ω vowel stem</poS>
+    <cat>World Order</cat>
+    <frq>90</frq>
+  </entry>
+  <entry>
+    <dsp>ἅπας ἅπασα ἅπαν</dsp>
+    <def>all together</def>
+    <poS>noun: 3rd declension irregular</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>91</frq>
+  </entry>
+  <entry>
+    <dsp>ὅμοιος ὁμοία ὅμοιον</dsp>
+    <def>like, resembling (+dat.)</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Characteristics</cat>
+    <frq>92</frq>
+  </entry>
+  <entry>
+    <dsp>νῦν, νυνί</dsp>
+    <def>now</def>
+    <poS>adverb</poS>
+    <cat>Time</cat>
+    <frq>93</frq>
+  </entry>
+  <entry>
+    <dsp>γῆ γῆς, ἡ</dsp>
+    <def>earth</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Earth</cat>
+    <frq>94</frq>
+  </entry>
+  <entry>
+    <dsp>δύναμις δυνάμεως, ἡ</dsp>
+    <def>power, strength, ability</def>
+    <poS>noun: 3rd declension ι-stem</poS>
+    <cat>War and Peace</cat>
+    <frq>95</frq>
+  </entry>
+  <entry>
+    <dsp>καλός –ή –όν</dsp>
+    <def>beautiful, noble, honorable</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Characteristics</cat>
+    <frq>96</frq>
+  </entry>
+  <entry>
+    <dsp>κύριος κυρίου, ὁ</dsp>
+    <def>lord, master</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Government and Society</cat>
+    <frq>97</frq>
+  </entry>
+  <entry>
+    <dsp>μᾶλλον</dsp>
+    <def>more, rather; μᾶλλον...ἤ rather than</def>
+    <poS>adverb</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>98</frq>
+  </entry>
+  <entry>
+    <dsp>ὅδε ἥδε τόδε</dsp>
+    <def>this</def>
+    <poS>pronoun</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>99</frq>
+  </entry>
+  <entry>
+    <dsp>ὅλος ὅλη ὅλον</dsp>
+    <def>whole, entire, complete</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>100</frq>
+  </entry>
+  <entry>
+    <dsp>μέρος μέρους, τό</dsp>
+    <def>part, share</def>
+    <poS>noun: 3rd declension σ-stem</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>101</frq>
+  </entry>
+  <entry>
+    <dsp>ἄρα</dsp>
+    <def>therefore, then (drawing an inference)</def>
+    <poS>adverb</poS>
+    <cat>Particles</cat>
+    <frq>102</frq>
+  </entry>
+  <entry>
+    <dsp>ἐμός ἐμή ἐμόν</dsp>
+    <def>my, mine</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>103</frq>
+  </entry>
+  <entry>
+    <dsp>χράομαι, χρήσομαι, ἐχρησάμην, κέχρημαι, ἐχρήσθην</dsp>
+    <def>use, experience, suffer (+dat.); treat someone in a certain way (+dat. and adv.)</def>
+    <poS>verb: deponent</poS>
+    <cat>Government and Society</cat>
+    <frq>104</frq>
+  </entry>
+  <entry>
+    <dsp>δύο</dsp>
+    <def>two</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>105</frq>
+  </entry>
+  <entry>
+    <dsp>χρόνος χρόνου, ὁ</dsp>
+    <def>time</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Time</cat>
+    <frq>106</frq>
+  </entry>
+  <entry>
+    <dsp>ἴσος ἴση ἴσον</dsp>
+    <def>equal, the same as (+dat.)</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>107</frq>
+  </entry>
+  <entry>
+    <dsp>ὅταν (ὅτε-ἄν)</dsp>
+    <def>whenever (+subj.)</def>
+    <poS>conjunction: subordinating</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>108</frq>
+  </entry>
+  <entry>
+    <dsp>μόνον</dsp>
+    <def>only</def>
+    <poS>adverb</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>109</frq>
+  </entry>
+  <entry>
+    <dsp>οἶδα, infin. εἰδέναι, imper. ἴσθι, plupf. used as impf. ᾔδειν</dsp>
+    <def>to know (pf. in pres. sense); to know how to (+infin.)</def>
+    <poS>verb: irregular</poS>
+    <cat>The Mind, Perceiving and Learning</cat>
+    <frq>110</frq>
+  </entry>
+  <entry>
+    <dsp>βασιλεύς βασιλέως, ὁ</dsp>
+    <def>king</def>
+    <poS>noun: 3rd declension -εύς, -έως</poS>
+    <cat>Government and Society</cat>
+    <frq>111</frq>
+  </entry>
+  <entry>
+    <dsp>ὦ</dsp>
+    <def>oh! (unemphatic when with the vocative)</def>
+    <poS>interjection</poS>
+    <cat>Particles</cat>
+    <frq>112</frq>
+  </entry>
+  <entry>
+    <dsp>βούλομαι, βουλήσομαι, βεβούλημαι, ἐβουλήθην</dsp>
+    <def>(+infin.) will, wish (to); be willing (to); ὁ βουλόμενος anyone who likes</def>
+    <poS>verb: deponent</poS>
+    <cat>The Senses and Feelings</cat>
+    <frq>113</frq>
+  </entry>
+  <entry>
+    <dsp>φαίνω, φανῶ, ἔφηνα, πέφηνα, πέφασμαι, ἐφάνην</dsp>
+    <def>bring to light, make appear, make clear; (pass.) come to light, be seen, appear, appear to be (+ptc. or infin.)</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>Showing and Finding</cat>
+    <frq>114</frq>
+  </entry>
+  <entry>
+    <dsp>γράφω, γράψω, ἔγραψα, γέγραφα, γέγραμμαι, ἐγράφην</dsp>
+    <def>write</def>
+    <poS>verb: -ω labial stem</poS>
+    <cat>Writing and Talking</cat>
+    <frq>115</frq>
+  </entry>
+  <entry>
+    <dsp>φέρω, οἴσω, 1 aor. ἤνεγκα, 2 aor. ἤνεγκον, ἐνήνοχα, ἐνήνεγμαι, ἠνέχθην</dsp>
+    <def>carry, bring, fetch; carry off or away; φέρε come now, well</def>
+    <poS>verb: irregular</poS>
+    <cat>Work and Leisure</cat>
+    <frq>116</frq>
+  </entry>
+  <entry>
+    <dsp>ψυχή ψυχῆς, ἡ</dsp>
+    <def>breath, life, soul</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Humanity and Being</cat>
+    <frq>117</frq>
+  </entry>
+  <entry>
+    <dsp>μηδείς μηδεμία μηδέν</dsp>
+    <def>no one, nothing</def>
+    <poS>pronoun</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>118</frq>
+  </entry>
+  <entry>
+    <dsp>αἴτιος αἰτία αἴτιον</dsp>
+    <def>responsible, guilty</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Law and Judgment</cat>
+    <frq>119</frq>
+  </entry>
+  <entry>
+    <dsp>πάλιν</dsp>
+    <def>back, backwards; again</def>
+    <poS>adverb</poS>
+    <cat>Direction</cat>
+    <frq>120</frq>
+  </entry>
+  <entry>
+    <dsp>μάλιστα</dsp>
+    <def>most, most of all; (in replies) certainly</def>
+    <poS>adverb</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>121</frq>
+  </entry>
+  <entry>
+    <dsp>ὑπάρχω, ὑπάρξω, ὑπῆρξα, ὑπῆργμαι, ὑπήρχθην</dsp>
+    <def>exist, be, belong to; τὰ ὑπάρχοντα existing circumstances</def>
+    <poS>verb: -ω palatal stem</poS>
+    <cat>Humanity and Being</cat>
+    <frq>122</frq>
+  </entry>
+  <entry>
+    <dsp>ἄρχω, ἄρξω, ἦρξα, ἦργμαι, ἤρχθην</dsp>
+    <def>begin (+gen.); lead, rule, govern (+gen.)</def>
+    <poS>verb: -ω palatal stem</poS>
+    <cat>Time</cat>
+    <frq>123</frq>
+  </entry>
+  <entry>
+    <dsp>γυνή γυναικός, ἡ</dsp>
+    <def>woman, wife</def>
+    <poS>noun: 3rd declension irregular</poS>
+    <cat>Humanity and Being</cat>
+    <frq>124</frq>
+  </entry>
+  <entry>
+    <dsp>ποτε (enclitic)</dsp>
+    <def>at some time, ever, in the world</def>
+    <poS>adverb</poS>
+    <cat>Time</cat>
+    <frq>125</frq>
+  </entry>
+  <entry>
+    <dsp>ἵνα</dsp>
+    <def>in order that (conj. +subj. or opt.); where (rel. adv. +indic.)</def>
+    <poS>conjunction: subordinating</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>126</frq>
+  </entry>
+  <entry>
+    <dsp>ὄνομα ὀνόματος, τό</dsp>
+    <def>name; fame</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>Writing and Talking</cat>
+    <frq>127</frq>
+  </entry>
+  <entry>
+    <dsp>ὑπέρ</dsp>
+    <def>for (+gen), beyond (+acc.)</def>
+    <poS>preposition</poS>
+    <cat>Prepositions without Direction</cat>
+    <frq>128</frq>
+  </entry>
+  <entry>
+    <dsp>ἤδη</dsp>
+    <def>already, now (of the immediate past); presently (of the immediate future)</def>
+    <poS>adverb</poS>
+    <cat>Time</cat>
+    <frq>129</frq>
+  </entry>
+  <entry>
+    <dsp>πατήρ πατρός, ὁ</dsp>
+    <def>father</def>
+    <poS>noun: 3rd declension irregular</poS>
+    <cat>Family and Friendship and the Home</cat>
+    <frq>130</frq>
+  </entry>
+  <entry>
+    <dsp>ἀκούω, ἀκούσομαι, ἤκουσα, ἀκήκοα, plup. ἠκηκόη or ἀκηκόη, ἠκούσθην</dsp>
+    <def>listen (to), hear (of)</def>
+    <poS>verb: -ω vowel stem</poS>
+    <cat>The Senses and Feelings</cat>
+    <frq>131</frq>
+  </entry>
+  <entry>
+    <dsp>γένος γένους, τό</dsp>
+    <def>race, family; kind, class</def>
+    <poS>noun: 3rd declension σ-stem</poS>
+    <cat>Family and Friendship and the Home</cat>
+    <frq>132</frq>
+  </entry>
+  <entry>
+    <dsp>τόπος τόπου, ὁ</dsp>
+    <def>place; topic</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Earth</cat>
+    <frq>133</frq>
+  </entry>
+  <entry>
+    <dsp>πράσσω, πράξω, ἔπραξα, πέπραχα, πέπραγμαι, ἐπράχθην</dsp>
+    <def>do, achieve, accomplish; do or fare in a certain way (+adv.)</def>
+    <poS>verb: -ω dental stem</poS>
+    <cat>Work and Leisure</cat>
+    <frq>134</frq>
+  </entry>
+  <entry>
+    <dsp>πρῶτος πρώτη πρῶτον</dsp>
+    <def>first, foremost, earliest; (adv.) τὸ πρῶτον in the first place</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>135</frq>
+  </entry>
+  <entry>
+    <dsp>εὑρίσκω, εὑρήσω, 2 aor. ηὗρον or εὗρον, ηὕρηκα or εὕρηκα, εὕρημαι, εὑρέθην</dsp>
+    <def>find (out), discover, devise</def>
+    <poS>verb: -ω palatal stem</poS>
+    <cat>Showing and Finding</cat>
+    <frq>136</frq>
+  </entry>
+  <entry>
+    <dsp>παῖς παιδός, ὁ/ἡ</dsp>
+    <def>son, daughter, child; slave</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>Family and Friendship and the Home</cat>
+    <frq>137</frq>
+  </entry>
+  <entry>
+    <dsp>ἔρχομαι, fut. εἶμι or ἐλεύσομαι, 2 aor. ἦλθον, ἐλήλυθα</dsp>
+    <def>come, go</def>
+    <poS>verb: deponent</poS>
+    <cat>Movement</cat>
+    <frq>138</frq>
+  </entry>
+  <entry>
+    <dsp>υἱός υἱοῦ, ὁ</dsp>
+    <def>son</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Family and Friendship and the Home</cat>
+    <frq>139</frq>
+  </entry>
+  <entry>
+    <dsp>ὕδωρ ὕδατος, τό</dsp>
+    <def>water</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>World Order</cat>
+    <frq>140</frq>
+  </entry>
+  <entry>
+    <dsp>ἴδιος ἰδία ἴδιον</dsp>
+    <def>one’s own; peculiar, separate, distinct</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>141</frq>
+  </entry>
+  <entry>
+    <dsp>σός σή σόν</dsp>
+    <def>your, yours (sg.; ὑμέτερος = pl.)</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>142</frq>
+  </entry>
+  <entry>
+    <dsp>γιγνώσκω, γνώσομαι, ἔγνων, ἔγνωκα, ἔγνωσμαι, ἐγνώσθην</dsp>
+    <def>come to know, learn; judge, think, or determine that (+acc. and infin.)</def>
+    <poS>verb: -ω palatal stem</poS>
+    <cat>The Mind, Perceiving and Learning</cat>
+    <frq>143</frq>
+  </entry>
+  <entry>
+    <dsp>τυγχάνω, τεύξομαι, ἔτυχον, τετύχηκα. τέτυγμαι, ἐτύχθην</dsp>
+    <def>hit, light upon, meet by chance (+gen.); reach, gain, obtain; happen to be (+ptc.)</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>Humanity and Being</cat>
+    <frq>144</frq>
+  </entry>
+  <entry>
+    <dsp>ἵστημι στήσω, ἔστησα, ἔστην, ἕστηκα, εἱστήκη, ἐστάθην</dsp>
+    <def>make to stand, set, ἔστησα set, caused to stand, 2 aor. ἔστην stood, ἕστηκα stand, plup. εἱστήκη stood, ἐστάθην stood</def>
+    <poS>verb: -μι</poS>
+    <cat>Work and Leisure</cat>
+    <frq>145</frq>
+  </entry>
+  <entry>
+    <dsp>ἅμα</dsp>
+    <def>at the same time; (prep.) together with (+dat.)</def>
+    <poS>adverb</poS>
+    <cat>Time</cat>
+    <frq>146</frq>
+  </entry>
+  <entry>
+    <dsp>ἄγω, ἄξω, ἤγαγον, ἦχα, ἦγμαι, ἤχθην</dsp>
+    <def>lead, carry, bring; pass (time)</def>
+    <poS>verb: -ω palatal stem</poS>
+    <cat>Movement</cat>
+    <frq>147</frq>
+  </entry>
+  <entry>
+    <dsp>τρόπος τρόπου, ὁ</dsp>
+    <def>way, manner, fashion; way of life, habit, custom</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Characteristics</cat>
+    <frq>148</frq>
+  </entry>
+  <entry>
+    <dsp>μήτε...μήτε</dsp>
+    <def>neither...nor</def>
+    <poS>conjunction: coordinating</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>149</frq>
+  </entry>
+  <entry>
+    <dsp>μέσος μέση μέσον</dsp>
+    <def>middle, in the middle, moderate; τὸ μέσον midst</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>150</frq>
+  </entry>
+  <entry>
+    <dsp>ἀλλήλων –οις</dsp>
+    <def>(oblique cases plural only) one another, each other</def>
+    <poS>pronoun</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>151</frq>
+  </entry>
+  <entry>
+    <dsp>ἀεί</dsp>
+    <def>always</def>
+    <poS>adverb</poS>
+    <cat>Time</cat>
+    <frq>152</frq>
+  </entry>
+  <entry>
+    <dsp>φίλος φίλη φίλον</dsp>
+    <def>beloved, dear; friendly</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Family and Friendship and the Home</cat>
+    <frq>153</frq>
+  </entry>
+  <entry>
+    <dsp>συμβαίνω, συμβήσομαι, 2 aor. συνέβην, συμβέβηκα</dsp>
+    <def>meet, come to an agreement, correspond; happen, occur, come to pass; turn out in a certain way (+adv.), result</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>Family and Friendship and the Home</cat>
+    <frq>154</frq>
+  </entry>
+  <entry>
+    <dsp>ἔργον ἔργου, τό</dsp>
+    <def>work, achievement, exploit</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Work and Leisure</cat>
+    <frq>155</frq>
+  </entry>
+  <entry>
+    <dsp>πλέω, πλεύσομαι, ἔπλευσα, πέπλευκα, πέπλευσμαι, ἐπλεύσθην</dsp>
+    <def>sail</def>
+    <poS>verb: contracted</poS>
+    <cat>Government and Society</cat>
+    <frq>156</frq>
+  </entry>
+  <entry>
+    <dsp>τότε</dsp>
+    <def>then, at that time; οἱ τότε the men of that time (opp. οἱ νῦν)</def>
+    <poS>adverb</poS>
+    <cat>Time</cat>
+    <frq>157</frq>
+  </entry>
+  <entry>
+    <dsp>μήν</dsp>
+    <def>[emphasizes preceding particle]</def>
+    <poS>adverb</poS>
+    <cat>Particles</cat>
+    <frq>158</frq>
+  </entry>
+  <entry>
+    <dsp>χρή, impf. χρῆν or ἐχρῆν, infin. χρῆναι</dsp>
+    <def>it is necessary, it is fated, one ought (+infin. or +acc. and infin.)</def>
+    <poS>verb: impersonal</poS>
+    <cat>Ethics and Morals</cat>
+    <frq>159</frq>
+  </entry>
+  <entry>
+    <dsp>δείκνυμι, δείξω, ἔδειξα, δέδειχα, δέδειγμαι, ἐδείχθην</dsp>
+    <def>show, point out</def>
+    <poS>verb: -μι</poS>
+    <cat>Showing and Finding</cat>
+    <frq>160</frq>
+  </entry>
+  <entry>
+    <dsp>ζῷον ζῴου, τό</dsp>
+    <def>living being, animal</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Animals and Plants</cat>
+    <frq>161</frq>
+  </entry>
+  <entry>
+    <dsp>πρᾶγμα πράγματος, τό</dsp>
+    <def>thing; (pl.) circumstances, affairs, business</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>Work and Leisure</cat>
+    <frq>162</frq>
+  </entry>
+  <entry>
+    <dsp>ἐναντίος ἐναντία ἐναντίον</dsp>
+    <def>opposite, facing; opposing</def>
+    <poS>preposition</poS>
+    <cat>Direction</cat>
+    <frq>163</frq>
+  </entry>
+  <entry>
+    <dsp>τίθημι, θήσω, ἔθηκα, τέθηκα, τέθειμαι (but usu. κεῖμαι instead), ἐτέθην</dsp>
+    <def>to put, place; establish, ordain, institute; put in a certain state</def>
+    <poS>verb: -μι</poS>
+    <cat>Work and Leisure</cat>
+    <frq>164</frq>
+  </entry>
+  <entry>
+    <dsp>εἶδον, 2 aor. of ὁράω, act. infin. ἰδεῖν, mid.infin. ἰδέσθαι</dsp>
+    <def>I saw</def>
+    <poS>verb: irregular</poS>
+    <cat>The Senses and Feelings</cat>
+    <frq>165</frq>
+  </entry>
+  <entry>
+    <dsp>χείρ χειρός, ἡ</dsp>
+    <def>hand</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>Body Parts</cat>
+    <frq>166</frq>
+  </entry>
+  <entry>
+    <dsp>μηδέ</dsp>
+    <def>and not</def>
+    <poS>conjunction: coordinating</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>167</frq>
+  </entry>
+  <entry>
+    <dsp>ὀλίγος ὀλίγη ὀλίγον</dsp>
+    <def>little, small, few</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>168</frq>
+  </entry>
+  <entry>
+    <dsp>νόμος νόμου, ὁ</dsp>
+    <def>custom, tradition, law</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Law and Judgment</cat>
+    <frq>169</frq>
+  </entry>
+  <entry>
+    <dsp>κοινός –ή –όν</dsp>
+    <def>common, shared, mutual</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Government and Society</cat>
+    <frq>170</frq>
+  </entry>
+  <entry>
+    <dsp>οἴομαι or οἶμαι, οἰήσομαι, impf. ᾤμην, aor. ᾠήθην</dsp>
+    <def>think, suppose, imagine (+acc. and infin.)</def>
+    <poS>verb: deponent</poS>
+    <cat>The Mind, Perceiving and Learning</cat>
+    <frq>171</frq>
+  </entry>
+  <entry>
+    <dsp>κινέω, κινήσω, ἐκίνησα, κεκίνηκα, κεκίνημαι, ἐκινήθην</dsp>
+    <def>set in motion, move, rouse</def>
+    <poS>verb: contracted</poS>
+    <cat>Movement</cat>
+    <frq>172</frq>
+  </entry>
+  <entry>
+    <dsp>πάσχω, πείσομαι, ἔπαθον, πέπονθα</dsp>
+    <def>suffer, experience, be affected in a certain way (+adv.)</def>
+    <poS>verb: -ω palatal stem</poS>
+    <cat>Life and Death</cat>
+    <frq>173</frq>
+  </entry>
+  <entry>
+    <dsp>πῶς</dsp>
+    <def>how?</def>
+    <poS>adverb</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>174</frq>
+  </entry>
+  <entry>
+    <dsp>ὅσπερ ἥπερ ὅπερ</dsp>
+    <def>the very one who, the very thing which</def>
+    <poS>pronoun</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>175</frq>
+  </entry>
+  <entry>
+    <dsp>τοσοῦτος –αύτη –οῦτο(ν)</dsp>
+    <def>so large, so much</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>176</frq>
+  </entry>
+  <entry>
+    <dsp>σύν</dsp>
+    <def>with (+ dat. of accompaniment or means)</def>
+    <poS>preposition</poS>
+    <cat>Prepositions without Direction</cat>
+    <frq>177</frq>
+  </entry>
+  <entry>
+    <dsp>εἶτα</dsp>
+    <def>then, next</def>
+    <poS>adverb</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>178</frq>
+  </entry>
+  <entry>
+    <dsp>ἀληθής –ές</dsp>
+    <def>true</def>
+    <poS>adjective: 3rd declension -ης, -ες</poS>
+    <cat>Ethics and Morals</cat>
+    <frq>179</frq>
+  </entry>
+  <entry>
+    <dsp>δίκαιος δικαία δίκαιον</dsp>
+    <def>right, just</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Law and Judgment</cat>
+    <frq>180</frq>
+  </entry>
+  <entry>
+    <dsp>μέλλω, μελλήσω, ἐμέλλησα</dsp>
+    <def>(+infin.) think of doing, intend to, be about to</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>The Senses and Feelings</cat>
+    <frq>181</frq>
+  </entry>
+  <entry>
+    <dsp>ἐθέλω, ἐθελήσω, ἠθέλησα, ἠθέληκα</dsp>
+    <def>(+infin.) wish (to); be willing (to)</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>The Senses and Feelings</cat>
+    <frq>182</frq>
+  </entry>
+  <entry>
+    <dsp>λοιπός –ή –όν</dsp>
+    <def>rest, remaining, rest-of-the</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>183</frq>
+  </entry>
+  <entry>
+    <dsp>ἀνάγκη ἀνάγκης, ἡ</dsp>
+    <def>necessity</def>
+    <poS>noun: 1st declension</poS>
+    <cat>World Order</cat>
+    <frq>184</frq>
+  </entry>
+  <entry>
+    <dsp>ὅτε</dsp>
+    <def>when, whenever (+indic. or opt.)</def>
+    <poS>conjunction: subordinating</poS>
+    <cat>Time</cat>
+    <frq>185</frq>
+  </entry>
+  <entry>
+    <dsp>δεύτερος –α –ον</dsp>
+    <def>second</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>186</frq>
+  </entry>
+  <entry>
+    <dsp>πόλεμος πολέμου ὁ</dsp>
+    <def>war</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>War and Peace</cat>
+    <frq>187</frq>
+  </entry>
+  <entry>
+    <dsp>χώρα χώρας, ἡ</dsp>
+    <def>land; place</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Earth</cat>
+    <frq>188</frq>
+  </entry>
+  <entry>
+    <dsp>ζάω, ζήσω, ἔζησα, ἔζηκα</dsp>
+    <def>live</def>
+    <poS>verb: contracted</poS>
+    <cat>Life and Death</cat>
+    <frq>189</frq>
+  </entry>
+  <entry>
+    <dsp>πλῆθος πλήθους, τό</dsp>
+    <def>mass, throng, crowd; number</def>
+    <poS>noun: 3rd declension σ-stem</poS>
+    <cat>Government and Society</cat>
+    <frq>190</frq>
+  </entry>
+  <entry>
+    <dsp>ἥλιος ἡλίου, ὁ</dsp>
+    <def>sun</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>World Order</cat>
+    <frq>191</frq>
+  </entry>
+  <entry>
+    <dsp>αἰτία αἰτίας, ἡ</dsp>
+    <def>cause, origin; charge, accusation</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Law and Judgment</cat>
+    <frq>192</frq>
+  </entry>
+  <entry>
+    <dsp>πείθω, πείσω, ἔπεισα, πέποιθα, πέπεισμαι, ἐπείσθην</dsp>
+    <def>persuade, win over; (mid. and pass.) obey, believe in, trust in (+dat.)</def>
+    <poS>verb: -ω dental stem</poS>
+    <cat>Writing and Talking</cat>
+    <frq>193</frq>
+  </entry>
+  <entry>
+    <dsp>πάρειμι</dsp>
+    <def>be present, be ready or at hand; (impers.) πάρεστί μοι it depends on me, it is in my power; τὰ παρόντα the present circumstances; τὸ παρόν just now</def>
+    <poS>verb: irregular</poS>
+    <cat>Humanity and Being</cat>
+    <frq>194</frq>
+  </entry>
+  <entry>
+    <dsp>πλεῖστος πλείστη πλεῖστον</dsp>
+    <def>most, greatest, largest (superl. of πολύς)</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>195</frq>
+  </entry>
+  <entry>
+    <dsp>εἶδος εἴδους, τό</dsp>
+    <def>form, shape, figure; class, kind, sort</def>
+    <poS>noun: 3rd declension σ-stem</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>196</frq>
+  </entry>
+  <entry>
+    <dsp>ὅπως</dsp>
+    <def>how, as; so that, in order that (+subj. or opt.)</def>
+    <poS>conjunction: subordinating</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>197</frq>
+  </entry>
+  <entry>
+    <dsp>τρεῖς τρία</dsp>
+    <def>three</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>198</frq>
+  </entry>
+  <entry>
+    <dsp>βίος βίου, ὁ</dsp>
+    <def>life</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Life and Death</cat>
+    <frq>199</frq>
+  </entry>
+  <entry>
+    <dsp>νομίζω, νομιῶ, ἐνόμισα, νενόμικα, νενόμισμαι, ἐνομίσθην</dsp>
+    <def>think, believe that (+acc. and infin.); hold as a custom, be accustomed to (+infin.)</def>
+    <poS>verb: -ω dental stem</poS>
+    <cat>The Mind, Perceiving and Learning</cat>
+    <frq>200</frq>
+  </entry>
+  <entry>
+    <dsp>κύκλος κύκλου, ὁ</dsp>
+    <def>circle, ring, orb, disc, circular motion</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>201</frq>
+  </entry>
+  <entry>
+    <dsp>πάθος πάθους, τό</dsp>
+    <def>incident, accident, misfortune, experience; passion, emotion; state, condition</def>
+    <poS>noun: 3rd declension σ-stem</poS>
+    <cat>The Senses and Feelings</cat>
+    <frq>202</frq>
+  </entry>
+  <entry>
+    <dsp>πρό</dsp>
+    <def>before, in front of (+gen.)</def>
+    <poS>preposition</poS>
+    <cat>Time</cat>
+    <frq>203</frq>
+  </entry>
+  <entry>
+    <dsp>μέντοι</dsp>
+    <def>however; of course</def>
+    <poS>adverb</poS>
+    <cat>Particles</cat>
+    <frq>204</frq>
+  </entry>
+  <entry>
+    <dsp>ὀνομάζω, ὀνομάσω, ὠνόμασα, ὠνόμακα, ὠνόμασμαι, ὠνομάσθην</dsp>
+    <def>call by name</def>
+    <poS>verb: -ω dental stem</poS>
+    <cat>Writing and Talking</cat>
+    <frq>204</frq>
+  </entry>
+  <entry>
+    <dsp>ἀρετή ἀρετῆς, ἡ</dsp>
+    <def>goodness, excellence; virtue; valor, bravery</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Ethics and Morals</cat>
+    <frq>206</frq>
+  </entry>
+  <entry>
+    <dsp>ὑμέτερος ὑμετέρα ὑμέτερον</dsp>
+    <def>your, yours (pl.; σός = sg.)</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>206</frq>
+  </entry>
+  <entry>
+    <dsp>ἔτος ἔτους, τό</dsp>
+    <def>year</def>
+    <poS>noun: 3rd declension σ-stem</poS>
+    <cat>Time</cat>
+    <frq>208</frq>
+  </entry>
+  <entry>
+    <dsp>ἀντί</dsp>
+    <def>opposite (+gen.)</def>
+    <poS>preposition</poS>
+    <cat>Direction</cat>
+    <frq>209</frq>
+  </entry>
+  <entry>
+    <dsp>ναῦς νεώς, ἡ</dsp>
+    <def>ship</def>
+    <poS>noun: 3rd declension irregular</poS>
+    <cat>Work and Leisure</cat>
+    <frq>210</frq>
+  </entry>
+  <entry>
+    <dsp>τρίτος –η –ον</dsp>
+    <def>third</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>211</frq>
+  </entry>
+  <entry>
+    <dsp>πνεῦμα πνεύματος, τό</dsp>
+    <def>wind, breath, spirit</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>Earth</cat>
+    <frq>212</frq>
+  </entry>
+  <entry>
+    <dsp>ὀρθός –ή –όν</dsp>
+    <def>upright, straight, true, regular</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>213</frq>
+  </entry>
+  <entry>
+    <dsp>θάλασσα θαλάσσης, ἡ</dsp>
+    <def>the sea</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Earth</cat>
+    <frq>214</frq>
+  </entry>
+  <entry>
+    <dsp>διαφέρω, διοίσω, 1 aor. διήνεγκα, 2 aor. διήνεγκον, διενήνοχα, διενήνεγμαι</dsp>
+    <def>carry in different ways, spread; differ; (impers.) διαφέρει it makes a difference to (+dat.)</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>Work and Leisure</cat>
+    <frq>215</frq>
+  </entry>
+  <entry>
+    <dsp>μέχρι (+gen.)</dsp>
+    <def>until; (prep.) as far as, up to (+gen.)</def>
+    <poS>conjunction: subordinating</poS>
+    <cat>Time</cat>
+    <frq>216</frq>
+  </entry>
+  <entry>
+    <dsp>δόξα δόξης, ἡ</dsp>
+    <def>opinion, judgment; reputation, honor, glory</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Ethics and Morals</cat>
+    <frq>217</frq>
+  </entry>
+  <entry>
+    <dsp>κεφαλή –ῆς, ἡ</dsp>
+    <def>head</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Body Parts</cat>
+    <frq>218</frq>
+  </entry>
+  <entry>
+    <dsp>πῦρ πυρός, τό</dsp>
+    <def>fire</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>World Order</cat>
+    <frq>219</frq>
+  </entry>
+  <entry>
+    <dsp>ἐλάσσων ἔλασσον</dsp>
+    <def>smaller, less, fewer (comp. of μικρός)</def>
+    <poS>adjective: 3rd declension -ων, -ον</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>220</frq>
+  </entry>
+  <entry>
+    <dsp>πούς ποδός, ὁ</dsp>
+    <def>foot</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>Body Parts</cat>
+    <frq>221</frq>
+  </entry>
+  <entry>
+    <dsp>ἱερός –ά –όν</dsp>
+    <def>holy, venerated, divine</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Religion</cat>
+    <frq>222</frq>
+  </entry>
+  <entry>
+    <dsp>εὐθύς εὐθεῖα εὐθύ</dsp>
+    <def>straight, direct; (adv.) immediately</def>
+    <poS>adjective: -ύς, -εῖα, -ύ</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>223</frq>
+  </entry>
+  <entry>
+    <dsp>εἶμι, infin. ἰέναι, ptc. ἰών, ἰοῦσα, ἰόν</dsp>
+    <def>I will go (fut. of ἔρχομαι)</def>
+    <poS>verb: -μι</poS>
+    <cat>Movement</cat>
+    <frq>224</frq>
+  </entry>
+  <entry>
+    <dsp>ταχύς ταχεῖα ταχύ</dsp>
+    <def>quick, fast; (adv.) τάχα quickly; perhaps</def>
+    <poS>adjective: -ύς, -εῖα, -ύ</poS>
+    <cat>Characteristics</cat>
+    <frq>225</frq>
+  </entry>
+  <entry>
+    <dsp>ποταμός –οῦ, ὁ</dsp>
+    <def>river, stream</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Earth</cat>
+    <frq>226</frq>
+  </entry>
+  <entry>
+    <dsp>οὐσία οὐσίας, ἡ</dsp>
+    <def>substance, property; essence</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Family and Friendship and the Home</cat>
+    <frq>227</frq>
+  </entry>
+  <entry>
+    <dsp>ἀριθμός –οῦ, ὁ</dsp>
+    <def>number</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>228</frq>
+  </entry>
+  <entry>
+    <dsp>ὕστερος ὑστέρα ὕστερον</dsp>
+    <def>coming after, following (+gen.); next, later; (adv.) ὕστερον afterwards</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Direction</cat>
+    <frq>229</frq>
+  </entry>
+  <entry>
+    <dsp>φυλάσσω, φυλάξω, ἐφύλαξα, πεφύλαχα, πεφύλαγμαι, ἐφυλάχθην</dsp>
+    <def>watch, guard, defend; (mid.) be on one’s guard against (+acc.)</def>
+    <poS>verb: -ω palatal stem</poS>
+    <cat>War and Peace</cat>
+    <frq>230</frq>
+  </entry>
+  <entry>
+    <dsp>καιρός καιροῦ, ὁ</dsp>
+    <def>the right time</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Time</cat>
+    <frq>231</frq>
+  </entry>
+  <entry>
+    <dsp>οἰκέω, οἰκήσω, ᾤκησα, ᾤκηκα, ᾠκήθην</dsp>
+    <def>inhabit, occupy</def>
+    <poS>verb: contracted</poS>
+    <cat>Family and Friendship and the Home</cat>
+    <frq>232</frq>
+  </entry>
+  <entry>
+    <dsp>ἀμφότερος ἀμφοτέρα ἀμφότερον</dsp>
+    <def>both</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>233</frq>
+  </entry>
+  <entry>
+    <dsp>σημεῖον σημείου, τό</dsp>
+    <def>sign, signal, mark</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Showing and Finding</cat>
+    <frq>234</frq>
+  </entry>
+  <entry>
+    <dsp>παρέχω, παρέξω, παρέσχον, παρέσχηκα, impf. παρεῖχον</dsp>
+    <def>provide, present, offer; allow, grant</def>
+    <poS>verb: -ω palatal stem</poS>
+    <cat>Taking and Giving</cat>
+    <frq>235</frq>
+  </entry>
+  <entry>
+    <dsp>ἑκάτερος ἑκατέρα ἑκάτερον</dsp>
+    <def>each (of two)</def>
+    <poS>pronoun</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>236</frq>
+  </entry>
+  <entry>
+    <dsp>δηλόω, δηλώσω, ἐδήλωσα, δεδήλωκα, ἐδηλώθην</dsp>
+    <def>show, declare, explain</def>
+    <poS>verb: contracted</poS>
+    <cat>Showing and Finding</cat>
+    <frq>237</frq>
+  </entry>
+  <entry>
+    <dsp>οἰκεῖος οἰκεία οἰκεῖον</dsp>
+    <def>domestic, of the house; one’s own; fitting, suitable</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Family and Friendship and the Home</cat>
+    <frq>238</frq>
+  </entry>
+  <entry>
+    <dsp>κελεύω, κελεύσω, ἐκέλευσα, κεκέλευκα, κεκέλευσμαι, ἐκελεύσθην</dsp>
+    <def>order, bid, command (+acc. and infin.)</def>
+    <poS>verb: -ω vowel stem</poS>
+    <cat>Law and Judgment</cat>
+    <frq>239</frq>
+  </entry>
+  <entry>
+    <dsp>τέλος τέλους, τό</dsp>
+    <def>end, fulfillment, achievement</def>
+    <poS>noun: 3rd declension σ-stem</poS>
+    <cat>Life and Death</cat>
+    <frq>240</frq>
+  </entry>
+  <entry>
+    <dsp>ἡγέομαι, ἡγήσομαι, ἡγησάμην, ἥγημαι</dsp>
+    <def>lead, be the leader; regard, believe, think</def>
+    <poS>verb: deponent</poS>
+    <cat>The Mind, Perceiving and Learning</cat>
+    <frq>241</frq>
+  </entry>
+  <entry>
+    <dsp>ἄξιος ἀξία ἄξιον</dsp>
+    <def>worthy, deserving</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Ethics and Morals</cat>
+    <frq>242</frq>
+  </entry>
+  <entry>
+    <dsp>ἦ</dsp>
+    <def>truly (emphasizes what follows)</def>
+    <poS>adverb</poS>
+    <cat>Particles</cat>
+    <frq>243</frq>
+  </entry>
+  <entry>
+    <dsp>δῆλος δήλη δῆλον</dsp>
+    <def>visible, clear, manifest</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Showing and Finding</cat>
+    <frq>244</frq>
+  </entry>
+  <entry>
+    <dsp>τοίνυν (τοί-νυν)</dsp>
+    <def>therefore, accordingly (inferential); further, moreover (transitional)</def>
+    <poS>adverb</poS>
+    <cat>Particles</cat>
+    <frq>245</frq>
+  </entry>
+  <entry>
+    <dsp>πολέμιος πολεμία πολέμιον</dsp>
+    <def>hostile; οἱ πολέμιοι the enemy</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>War and Peace</cat>
+    <frq>246</frq>
+  </entry>
+  <entry>
+    <dsp>ἔρομαι, ἐρήσομαι, 2 aor. ἠρόμην</dsp>
+    <def>ask, ask one about (+double acc.)</def>
+    <poS>verb: deponent</poS>
+    <cat>Writing and Talking</cat>
+    <frq>247</frq>
+  </entry>
+  <entry>
+    <dsp>ἀδελφός –οῦ, ὁ</dsp>
+    <def>brother</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Family and Friendship and the Home</cat>
+    <frq>248</frq>
+  </entry>
+  <entry>
+    <dsp>μέγεθος μεγέθους, τό</dsp>
+    <def>greatness, size, magnitude</def>
+    <poS>noun: 3rd declension σ-stem</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>249</frq>
+  </entry>
+  <entry>
+    <dsp>εἴτε…εἴτε</dsp>
+    <def>whether…or</def>
+    <poS>conjunction: coordinating</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>250</frq>
+  </entry>
+  <entry>
+    <dsp>κεῖμαι, κείσομαι</dsp>
+    <def>to lie, be situated, be laid up in store, be set up, be established or ordained (used as pf. pass. of τίθημι)</def>
+    <poS>verb: deponent</poS>
+    <cat>Work and Leisure</cat>
+    <frq>251</frq>
+  </entry>
+  <entry>
+    <dsp>πολλάκις</dsp>
+    <def>often</def>
+    <poS>adverb</poS>
+    <cat>Time</cat>
+    <frq>252</frq>
+  </entry>
+  <entry>
+    <dsp>πίνω, πίομαι, 2 aor. ἔπιον, πέπωκα, -πέπομαι, -επόθην</dsp>
+    <def>drink</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>The Senses and Feelings</cat>
+    <frq>253</frq>
+  </entry>
+  <entry>
+    <dsp>χάρις χάριτος, ἡ</dsp>
+    <def>splendor, honor, glory; favor, goodwill, gratitude, thanks</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>Ethics and Morals</cat>
+    <frq>254</frq>
+  </entry>
+  <entry>
+    <dsp>ἔπειτα</dsp>
+    <def>then, next</def>
+    <poS>adverb</poS>
+    <cat>Time</cat>
+    <frq>255</frq>
+  </entry>
+  <entry>
+    <dsp>ζητέω, ζητήσω, ἐζήτησα, ἐζήτηκα</dsp>
+    <def>seek</def>
+    <poS>verb: contracted</poS>
+    <cat>Showing and Finding</cat>
+    <frq>256</frq>
+  </entry>
+  <entry>
+    <dsp>σχῆμα σχήματος, τό</dsp>
+    <def>form, figure, appearance, character</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>257</frq>
+  </entry>
+  <entry>
+    <dsp>τροφή τροφῆς, ἡ</dsp>
+    <def>nourishment, food</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Life and Death</cat>
+    <frq>258</frq>
+  </entry>
+  <entry>
+    <dsp>μανθάνω, μαθήσομαι, ἔμαθον, μεμάθηκα</dsp>
+    <def>learn, ascertain</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>The Mind, Perceiving and Learning</cat>
+    <frq>259</frq>
+  </entry>
+  <entry>
+    <dsp>ἐνταῦθα</dsp>
+    <def>here, there</def>
+    <poS>adverb</poS>
+    <cat>Direction</cat>
+    <frq>260</frq>
+  </entry>
+  <entry>
+    <dsp>φεύγω, φεύξομαι, ἔφυγον, πέφευγα</dsp>
+    <def>flee, run away, avoid, shun</def>
+    <poS>verb: -ω palatal stem</poS>
+    <cat>Movement</cat>
+    <frq>261</frq>
+  </entry>
+  <entry>
+    <dsp>ἵππος ἵππου, ὁ</dsp>
+    <def>horse</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Animals and Plants</cat>
+    <frq>262</frq>
+  </entry>
+  <entry>
+    <dsp>κόσμος κόσμου, ὁ</dsp>
+    <def>order; ornament, decoration, adornment; world, universe</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>World Order</cat>
+    <frq>263</frq>
+  </entry>
+  <entry>
+    <dsp>αἷμα αἵματος, τό</dsp>
+    <def>blood</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>Body Parts</cat>
+    <frq>264</frq>
+  </entry>
+  <entry>
+    <dsp>αἱρέω, αἱρήσω, 2 aor. εἷλον, ᾕρηκα, ᾕρημαι, ᾑρέθην</dsp>
+    <def>take, grasp, take by force; (mid.) choose</def>
+    <poS>verb: contracted</poS>
+    <cat>Taking and Giving</cat>
+    <frq>265</frq>
+  </entry>
+  <entry>
+    <dsp>προστίθημι, προσθήσω, προσέθηκα, προστέθηκα, προστέθειμαι (but προσκεῖμαι), προσετέθην</dsp>
+    <def>add; (med.) join</def>
+    <poS>verb: -μι</poS>
+    <cat>Taking and Giving</cat>
+    <frq>266</frq>
+  </entry>
+  <entry>
+    <dsp>ἀξιόω, ἀξιώσω, ἠξίωσα, ἠξίωκα, ἠξίωμαι, ἠξιώθην</dsp>
+    <def>consider worthy; require, demand, ask, claim</def>
+    <poS>verb: contracted</poS>
+    <cat>Ethics and Morals</cat>
+    <frq>267</frq>
+  </entry>
+  <entry>
+    <dsp>ἕως</dsp>
+    <def>until; while, so long as</def>
+    <poS>conjunction: subordinating</poS>
+    <cat>Time</cat>
+    <frq>268</frq>
+  </entry>
+  <entry>
+    <dsp>νέος νέα νέον</dsp>
+    <def>young, new, fresh</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Characteristics</cat>
+    <frq>269</frq>
+  </entry>
+  <entry>
+    <dsp>ἔοικα, ptc. εἰκώς</dsp>
+    <def>be like, look like (+dat.); seem; befit</def>
+    <poS>verb: irregular</poS>
+    <cat>Characteristics</cat>
+    <frq>270</frq>
+  </entry>
+  <entry>
+    <dsp>κἄν (καὶ-ἄν)</dsp>
+    <def>even if (+subj.)</def>
+    <poS>conjunction: subordinating</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>271</frq>
+  </entry>
+  <entry>
+    <dsp>καθίστημι, καταστήσω, κατέστησα, κατέστην, καθέστηκα, plupf. καθειστήκη, κατεστάθην</dsp>
+    <def>set down, establish; bring into a certain state, render</def>
+    <poS>verb: -μι</poS>
+    <cat>Work and Leisure</cat>
+    <frq>272</frq>
+  </entry>
+  <entry>
+    <dsp>τέχνη τέχνης, ἡ</dsp>
+    <def>art, skill, craft</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Government and Society</cat>
+    <frq>273</frq>
+  </entry>
+  <entry>
+    <dsp>χρῆμα χρήματος, τό</dsp>
+    <def>thing, matter; (more commonly in pl.) goods or property, esp. money</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>Government and Society</cat>
+    <frq>274</frq>
+  </entry>
+  <entry>
+    <dsp>σῴζω, σώσω, ἔσωσα, σέσωκα, ἐσώθην</dsp>
+    <def>save</def>
+    <poS>verb: -ω dental stem</poS>
+    <cat>Help and Safety</cat>
+    <frq>275</frq>
+  </entry>
+  <entry>
+    <dsp>πέμπω, πέμψω, ἔπεμψα, πέπομφα, πέπεμμαι, ἐπέμφθην</dsp>
+    <def>send</def>
+    <poS>verb: -ω labial stem</poS>
+    <cat>Movement</cat>
+    <frq>276</frq>
+  </entry>
+  <entry>
+    <dsp>φωνή φωνῆς, ἡ</dsp>
+    <def>sound, voice</def>
+    <poS>noun: 1st declension</poS>
+    <cat>The Senses and Feelings</cat>
+    <frq>277</frq>
+  </entry>
+  <entry>
+    <dsp>ἕνεκα</dsp>
+    <def>on account of, for the sake of (+gen.)</def>
+    <poS>preposition</poS>
+    <cat>Prepositions without Direction</cat>
+    <frq>278</frq>
+  </entry>
+  <entry>
+    <dsp>ἀπόλλυμι, ἀπολῶ, ἀπώλεσα, 2 aor. mid. ἀπωλόμην, pf. ἀπολώλεκα, ἀπόλωλα</dsp>
+    <def>kill, destroy; (mid.) perish, die</def>
+    <poS>verb: -μι</poS>
+    <cat>Life and Death</cat>
+    <frq>279</frq>
+  </entry>
+  <entry>
+    <dsp>θάνατος θανάτου, ὁ</dsp>
+    <def>death</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Life and Death</cat>
+    <frq>280</frq>
+  </entry>
+  <entry>
+    <dsp>νύξ νυκτός, ἡ</dsp>
+    <def>night</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>World Order</cat>
+    <frq>281</frq>
+  </entry>
+  <entry>
+    <dsp>ὁδός ὁδοῦ, ἡ</dsp>
+    <def>road, way, path</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Government and Society</cat>
+    <frq>282</frq>
+  </entry>
+  <entry>
+    <dsp>ἔθνος ἔθνους, τό</dsp>
+    <def>nation</def>
+    <poS>noun: 3rd declension σ-stem</poS>
+    <cat>Government and Society</cat>
+    <frq>283</frq>
+  </entry>
+  <entry>
+    <dsp>ἀποδίδωμι, ἀποδώσω, ἀπέδωκα, ἀποδέδωκα, ἀποδέδομαι, ἀπεδόθην</dsp>
+    <def>give back; render; allow; (mid.) sell</def>
+    <poS>verb: -μι</poS>
+    <cat>Taking and Giving</cat>
+    <frq>284</frq>
+  </entry>
+  <entry>
+    <dsp>νοῦς (νόος), νοῦ (νόου), ὁ</dsp>
+    <def>mind, perception, sense</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>The Mind, Perceiving and Learning</cat>
+    <frq>285</frq>
+  </entry>
+  <entry>
+    <dsp>μένω, μενῶ, ἔμεινα, μεμένηκα</dsp>
+    <def>stay, remain, endure, await</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>Movement</cat>
+    <frq>286</frq>
+  </entry>
+  <entry>
+    <dsp>ἀποθνῄσκω, ἀποθανοῦμαι, 2 aor. ἀπέθανον, ἀποτέθνηκα</dsp>
+    <def>die</def>
+    <poS>verb: -ω palatal stem</poS>
+    <cat>Life and Death</cat>
+    <frq>287</frq>
+  </entry>
+  <entry>
+    <dsp>πάνυ</dsp>
+    <def>altogether, entirely</def>
+    <poS>adverb</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>288</frq>
+  </entry>
+  <entry>
+    <dsp>εὖ</dsp>
+    <def>well (opp. κακῶς); thoroughly, competently; happily, fortunately</def>
+    <poS>adverb</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>289</frq>
+  </entry>
+  <entry>
+    <dsp>κρίνω, κρινῶ, ἔκρινα, κέκρικα, κέκριμαι, ἐκρίθην</dsp>
+    <def>judge, decide, determine</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>Law and Judgment</cat>
+    <frq>290</frq>
+  </entry>
+  <entry>
+    <dsp>ἀναιρέω, ἀναιρήσω, ἀνεῖλον, ἀνῄρηκα, ἀνῄρημαι, ἀνῃρέθην</dsp>
+    <def>raise, take up; kill, destroy</def>
+    <poS>verb: contracted</poS>
+    <cat>War and Peace</cat>
+    <frq>291</frq>
+  </entry>
+  <entry>
+    <dsp>μακρός –ά –όν</dsp>
+    <def>long, tall, large, long-lasting</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>292</frq>
+  </entry>
+  <entry>
+    <dsp>ἥκω, ἥξω, pf. ἧκα</dsp>
+    <def>I have come, I am present</def>
+    <poS>verb: -ω palatal stem</poS>
+    <cat>Movement</cat>
+    <frq>293</frq>
+  </entry>
+  <entry>
+    <dsp>ἡδονή –ῆς, ἡ</dsp>
+    <def>pleasure, enjoyment</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Work and Leisure</cat>
+    <frq>294</frq>
+  </entry>
+  <entry>
+    <dsp>μήτηρ μητρός, ἡ</dsp>
+    <def>mother</def>
+    <poS>noun: 3rd declension irregular</poS>
+    <cat>Family and Friendship and the Home</cat>
+    <frq>295</frq>
+  </entry>
+  <entry>
+    <dsp>δεινός –ή –όν</dsp>
+    <def>awesome, terrible; clever, clever at (+infin.)</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Characteristics</cat>
+    <frq>296</frq>
+  </entry>
+  <entry>
+    <dsp>διαφορά –ᾶς, ἡ</dsp>
+    <def>difference, disagreement</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Law and Judgment</cat>
+    <frq>297</frq>
+  </entry>
+  <entry>
+    <dsp>κρατέω, κρατήσω, ἐκράτησα, κεκράτηκα, κεκράτημαι, ἐκρατήθην</dsp>
+    <def>be victorious, conquer, rule, surpass, excel (+gen.)</def>
+    <poS>verb: contracted</poS>
+    <cat>Government and Society</cat>
+    <frq>298</frq>
+  </entry>
+  <entry>
+    <dsp>δῆμος δήμου, ὁ</dsp>
+    <def>the (common) people; country district (opp. πόλις)</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Humanity and Being</cat>
+    <frq>299</frq>
+  </entry>
+  <entry>
+    <dsp>οὐρανός –οῦ, ὁ</dsp>
+    <def>sky, heaven</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>World Order</cat>
+    <frq>300</frq>
+  </entry>
+  <entry>
+    <dsp>ἕπομαι ἕψομαι, 2 aor. ἑσπόμην</dsp>
+    <def>follow</def>
+    <poS>verb: deponent</poS>
+    <cat>Movement</cat>
+    <frq>301</frq>
+  </entry>
+  <entry>
+    <dsp>ἥσσων ἧσσον</dsp>
+    <def>less, weaker (comp. of κακός or μικρός)</def>
+    <poS>adjective: 3rd declension -ων, -ον</poS>
+    <cat>Characteristics</cat>
+    <frq>302</frq>
+  </entry>
+  <entry>
+    <dsp>ὄρος ὄρους, τό</dsp>
+    <def>mountain, hill</def>
+    <poS>noun: 3rd declension σ-stem</poS>
+    <cat>Earth</cat>
+    <frq>303</frq>
+  </entry>
+  <entry>
+    <dsp>πλήν</dsp>
+    <def>(prep.) except (+gen.); (conj.) except that, unless, but</def>
+    <poS>preposition</poS>
+    <cat>Prepositions without Direction</cat>
+    <frq>304</frq>
+  </entry>
+  <entry>
+    <dsp>τέτταρες τέτταρα</dsp>
+    <def>four</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>305</frq>
+  </entry>
+  <entry>
+    <dsp>δυνατός –ή –όν</dsp>
+    <def>strong, powerful, able</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Characteristics</cat>
+    <frq>306</frq>
+  </entry>
+  <entry>
+    <dsp>οἶκος οἴκου, ὁ</dsp>
+    <def>house, home, family</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Family and Friendship and the Home</cat>
+    <frq>307</frq>
+  </entry>
+  <entry>
+    <dsp>ἄριστος ἀρίστη ἄριστον</dsp>
+    <def>best, noblest (superl. of ἀγαθός)</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Ethics and Morals</cat>
+    <frq>308</frq>
+  </entry>
+  <entry>
+    <dsp>ῥᾴδιος ῥᾳδία ῥᾴδιον</dsp>
+    <def>easy</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Characteristics</cat>
+    <frq>309</frq>
+  </entry>
+  <entry>
+    <dsp>ἀφαιρέω, ἀφαιρήσω, ἀφεῖλον, ἀφῄρηκα, ἀφῄρημαι, ἀφῃρέθην</dsp>
+    <def>take from, take away</def>
+    <poS>verb: contracted</poS>
+    <cat>Taking and Giving</cat>
+    <frq>310</frq>
+  </entry>
+  <entry>
+    <dsp>τύχη τύχης, ἡ</dsp>
+    <def>luck, fortune (good or bad), fate, chance</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Life and Death</cat>
+    <frq>311</frq>
+  </entry>
+  <entry>
+    <dsp>φανερός –ά –όν</dsp>
+    <def>clear, evident</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>The Senses and Feelings</cat>
+    <frq>312</frq>
+  </entry>
+  <entry>
+    <dsp>πρόσωπον προσώπου, τό</dsp>
+    <def>face, mask, person</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Body Parts</cat>
+    <frq>313</frq>
+  </entry>
+  <entry>
+    <dsp>πιστεύω, πιστεύσω, ἐπίστευσα, πεπίστευκα, πεπίστευμαι, ἐπιστεύθην</dsp>
+    <def>trust, rely on, believe in (+dat.)</def>
+    <poS>verb: -ω vowel stem</poS>
+    <cat>The Senses and Feelings</cat>
+    <frq>314</frq>
+  </entry>
+  <entry>
+    <dsp>διδάσκω, διδάξω, ἐδίδαξα, δεδίδαχα, δεδίδαγμαι, ἐδιδάχθην</dsp>
+    <def>teach</def>
+    <poS>verb: -ω palatal stem</poS>
+    <cat>The Mind, Perceiving and Learning</cat>
+    <frq>315</frq>
+  </entry>
+  <entry>
+    <dsp>ἄνω</dsp>
+    <def>up, upwards</def>
+    <poS>adverb</poS>
+    <cat>Direction</cat>
+    <frq>316</frq>
+  </entry>
+  <entry>
+    <dsp>τάσσω, τάξω, ἔταξα, τέταχα, τέταγμαι, ἐτάχθην</dsp>
+    <def>arrange, put in order</def>
+    <poS>verb: -ω palatal stem</poS>
+    <cat>Government and Society</cat>
+    <frq>317</frq>
+  </entry>
+  <entry>
+    <dsp>ὀφθαλμός –οῦ, ὁ</dsp>
+    <def>eye</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Body Parts</cat>
+    <frq>318</frq>
+  </entry>
+  <entry>
+    <dsp>δέχομαι, δέξομαι, ἐδεξάμην, δέδεγμαι, -εδέχθην</dsp>
+    <def>take, accept; welcome, entertain</def>
+    <poS>verb: deponent</poS>
+    <cat>Family and Friendship and the Home</cat>
+    <frq>319</frq>
+  </entry>
+  <entry>
+    <dsp>ἀφικνέομαι, ἀφίξομαι, 2 aor. ἀφικόμην, ἀφῖγμαι</dsp>
+    <def>come to, arrive at</def>
+    <poS>verb: deponent</poS>
+    <cat>Movement</cat>
+    <frq>320</frq>
+  </entry>
+  <entry>
+    <dsp>ἱκανός –ή –όν</dsp>
+    <def>sufficient, enough; competent, able to (+infin.)</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Help and Safety</cat>
+    <frq>321</frq>
+  </entry>
+  <entry>
+    <dsp>ἐργάζομαι, ἐργάσομαι, εἰργασάμην, εἴργασμαι</dsp>
+    <def>work, labor</def>
+    <poS>verb: deponent</poS>
+    <cat>Work and Leisure</cat>
+    <frq>322</frq>
+  </entry>
+  <entry>
+    <dsp>μάχη μάχης, ἡ</dsp>
+    <def>battle</def>
+    <poS>noun: 1st declension</poS>
+    <cat>War and Peace</cat>
+    <frq>323</frq>
+  </entry>
+  <entry>
+    <dsp>τρέφω, θρέψω, ἔθρεψα, τέθραμμαι, ἐτράφην</dsp>
+    <def>nourish, feed, support, maintain; rear, educate</def>
+    <poS>verb: -ω labial stem</poS>
+    <cat>Life and Death</cat>
+    <frq>324</frq>
+  </entry>
+  <entry>
+    <dsp>ἀδύνατος –ον</dsp>
+    <def>impossible; powerless</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Government and Society</cat>
+    <frq>325</frq>
+  </entry>
+  <entry>
+    <dsp>ἀκριβής –ές</dsp>
+    <def>exact, accurate, precise</def>
+    <poS>adjective: 3rd declension -ης, -ες</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>326</frq>
+  </entry>
+  <entry>
+    <dsp>που</dsp>
+    <def>(enclitic) somewhere; I suppose, perhaps (to qualify an assertion)</def>
+    <poS>adverb</poS>
+    <cat>Particles</cat>
+    <frq>327</frq>
+  </entry>
+  <entry>
+    <dsp>ὅθεν</dsp>
+    <def>from where, whence</def>
+    <poS>adverb</poS>
+    <cat>Direction</cat>
+    <frq>328</frq>
+  </entry>
+  <entry>
+    <dsp>στόμα στόματος, τό</dsp>
+    <def>mouth, face, opening</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>Body Parts</cat>
+    <frq>329</frq>
+  </entry>
+  <entry>
+    <dsp>χωρίς</dsp>
+    <def>separately, apart; (+gen.) without, separate from</def>
+    <poS>adverb</poS>
+    <cat>Direction</cat>
+    <frq>330</frq>
+  </entry>
+  <entry>
+    <dsp>κρείσσων κρεῖσσον</dsp>
+    <def>stronger, mightier; better, more excellent (comp. of ἀγαθός)</def>
+    <poS>adjective: 3rd declension -ων, -ον</poS>
+    <cat>Characteristics</cat>
+    <frq>331</frq>
+  </entry>
+  <entry>
+    <dsp>βραχύς βραχεῖα βραχύ</dsp>
+    <def>brief, short</def>
+    <poS>adjective: -ύς, -εῖα, -ύ</poS>
+    <cat>Characteristics</cat>
+    <frq>332</frq>
+  </entry>
+  <entry>
+    <dsp>ἰσχυρός –ά –όν</dsp>
+    <def>strong</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Characteristics</cat>
+    <frq>333</frq>
+  </entry>
+  <entry>
+    <dsp>ἀλήθεια ἀληθείας, ἡ</dsp>
+    <def>truth</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Ethics and Morals</cat>
+    <frq>334</frq>
+  </entry>
+  <entry>
+    <dsp>δίκη δίκης, ἡ</dsp>
+    <def>justice, lawsuit, trial, penalty</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Law and Judgment</cat>
+    <frq>335</frq>
+  </entry>
+  <entry>
+    <dsp>χωρίον χωρίου, τό</dsp>
+    <def>place, spot, district</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Earth</cat>
+    <frq>336</frq>
+  </entry>
+  <entry>
+    <dsp>ἡδύς ἡδεῖα ἡδύ</dsp>
+    <def>sweet, pleasant</def>
+    <poS>adjective: -ύς, -εῖα, -ύ</poS>
+    <cat>Characteristics</cat>
+    <frq>337</frq>
+  </entry>
+  <entry>
+    <dsp>νόσος νόσου, ὁ</dsp>
+    <def>disease, sickness</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Life and Death</cat>
+    <frq>338</frq>
+  </entry>
+  <entry>
+    <dsp>λίθος λίθου, ὁ</dsp>
+    <def>stone</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Earth</cat>
+    <frq>339</frq>
+  </entry>
+  <entry>
+    <dsp>παλαιός –ά –όν</dsp>
+    <def>old, ancient</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Characteristics</cat>
+    <frq>340</frq>
+  </entry>
+  <entry>
+    <dsp>ἀφίημι, ἀφήσω, ἀφῆκα, ἀφεῖκα, ἀφεῖμαι, ἀφείθην</dsp>
+    <def>send away, let go; let alone, neglect</def>
+    <poS>verb: -μι</poS>
+    <cat>Taking and Giving</cat>
+    <frq>341</frq>
+  </entry>
+  <entry>
+    <dsp>ἄλλως</dsp>
+    <def>otherwise</def>
+    <poS>adverb</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>342</frq>
+  </entry>
+  <entry>
+    <dsp>πρᾶξις πράξεως, ἡ</dsp>
+    <def>action, transaction, business</def>
+    <poS>noun: 3rd declension ι-stem</poS>
+    <cat>Work and Leisure</cat>
+    <frq>343</frq>
+  </entry>
+  <entry>
+    <dsp>σαφής σαφές</dsp>
+    <def>clear, distinct, plain</def>
+    <poS>adjective: 3rd declension -ης, -ες</poS>
+    <cat>Showing and Finding</cat>
+    <frq>344</frq>
+  </entry>
+  <entry>
+    <dsp>σοφός –ή –όν</dsp>
+    <def>wise, clever, skilled</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Characteristics</cat>
+    <frq>345</frq>
+  </entry>
+  <entry>
+    <dsp>νικάω, νικήσω, ἐνίκησα, νενίκηκα, νενίκημαι, ἐνικήθην</dsp>
+    <def>conquer, win</def>
+    <poS>verb: contracted</poS>
+    <cat>War and Peace</cat>
+    <frq>346</frq>
+  </entry>
+  <entry>
+    <dsp>ὁμολογέω, ὁμολογήσω, ὡμολόγησα, ὡμολόγηκα, ὡμολόγημαι, ὡμολογήθην</dsp>
+    <def>agree with, say the same thing as (+dat.)</def>
+    <poS>verb: contracted</poS>
+    <cat>Law and Judgment</cat>
+    <frq>347</frq>
+  </entry>
+  <entry>
+    <dsp>ναός (νεώς) ναοῦ (νεώ), ὁ</dsp>
+    <def>temple</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Religion</cat>
+    <frq>348</frq>
+  </entry>
+  <entry>
+    <dsp>αὖ, αὖθις</dsp>
+    <def>moreover; on the other hand; back (again)</def>
+    <poS>adverb</poS>
+    <cat>Particles</cat>
+    <frq>349</frq>
+  </entry>
+  <entry>
+    <dsp>πατρίς πατρίδος, ἡ</dsp>
+    <def>fatherland</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>Government and Society</cat>
+    <frq>350</frq>
+  </entry>
+  <entry>
+    <dsp>ὀξύς ὀξεῖα ὀξύ</dsp>
+    <def>sharp, keen, shrill, pungent</def>
+    <poS>adjective: -ύς, -εῖα, -ύ</poS>
+    <cat>Characteristics</cat>
+    <frq>351</frq>
+  </entry>
+  <entry>
+    <dsp>καίτοι (καί-τοι)</dsp>
+    <def>and indeed, and yet</def>
+    <poS>adverb</poS>
+    <cat>Particles</cat>
+    <frq>352</frq>
+  </entry>
+  <entry>
+    <dsp>πλέον</dsp>
+    <def>more, rather</def>
+    <poS>adverb</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>353</frq>
+  </entry>
+  <entry>
+    <dsp>πλέων πλέον</dsp>
+    <def>more, larger (comp. of πολύς)</def>
+    <poS>adjective: 3rd declension -ων, -ον</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>354</frq>
+  </entry>
+  <entry>
+    <dsp>γνώμη γνώμης, ἡ</dsp>
+    <def>thought, intelligence, opinion, purpose</def>
+    <poS>noun: 1st declension</poS>
+    <cat>The Mind, Perceiving and Learning</cat>
+    <frq>355</frq>
+  </entry>
+  <entry>
+    <dsp>τιμή τιμῆς, ἡ</dsp>
+    <def>honor, esteem; price, value; office, magistracy</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Ethics and Morals</cat>
+    <frq>356</frq>
+  </entry>
+  <entry>
+    <dsp>μεταξύ</dsp>
+    <def>between</def>
+    <poS>adverb</poS>
+    <cat>Direction</cat>
+    <frq>357</frq>
+  </entry>
+  <entry>
+    <dsp>προσήκω προσήξω</dsp>
+    <def>belong to, have to do with; be fitting for (+dat.); arrive at; οἱ προσήκοντες relatives; τὰ προσήκoντα duties</def>
+    <poS>verb: -ω palatal stem</poS>
+    <cat>Ethics and Morals</cat>
+    <frq>358</frq>
+  </entry>
+  <entry>
+    <dsp>πρίν</dsp>
+    <def>before, until</def>
+    <poS>conjunction: subordinating</poS>
+    <cat>Time</cat>
+    <frq>359</frq>
+  </entry>
+  <entry>
+    <dsp>ἀδικέω, ἀδικήσω, ἠδίκησα, ἠδίκηκα, ἠδίκημαι, ἠδικήθην</dsp>
+    <def>do wrong; injure</def>
+    <poS>verb: contracted</poS>
+    <cat>Ethics and Morals</cat>
+    <frq>360</frq>
+  </entry>
+  <entry>
+    <dsp>στρατηγός –οῦ, ὁ</dsp>
+    <def>leader of an army, commander, general</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>War and Peace</cat>
+    <frq>361</frq>
+  </entry>
+  <entry>
+    <dsp>οὐκέτι</dsp>
+    <def>no longer, no more</def>
+    <poS>adverb</poS>
+    <cat>Time</cat>
+    <frq>362</frq>
+  </entry>
+  <entry>
+    <dsp>πρέσβυς πρέσβεως, ὁ</dsp>
+    <def>old man; (pl.) ambassadors</def>
+    <poS>noun: 3rd declension -εύς, -έως</poS>
+    <cat>Government and Society</cat>
+    <frq>363</frq>
+  </entry>
+  <entry>
+    <dsp>παύω, παύσω, ἔπαυσα, πέπαυκα, πέπαυμαι, ἐπαύθην</dsp>
+    <def>stop, put an end to; (mid.) cease</def>
+    <poS>verb: -ω vowel stem</poS>
+    <cat>Movement</cat>
+    <frq>364</frq>
+  </entry>
+  <entry>
+    <dsp>τελευτάω, τελευτήσω, ἐτελεύτησα, τετελεύτηκα, τετελεύτημαι, ἐτελευτήθην</dsp>
+    <def>finish; die</def>
+    <poS>verb: contracted</poS>
+    <cat>Life and Death</cat>
+    <frq>365</frq>
+  </entry>
+  <entry>
+    <dsp>μίγνυμι, μείξω, ἔμειξα, μέμειγμαι, ἐμείχθην</dsp>
+    <def>mix, mingle</def>
+    <poS>verb: -μι</poS>
+    <cat>Work and Leisure</cat>
+    <frq>366</frq>
+  </entry>
+  <entry>
+    <dsp>λαός λαοῦ, ὁ</dsp>
+    <def>the people, folk</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Humanity and Being</cat>
+    <frq>367</frq>
+  </entry>
+  <entry>
+    <dsp>θυγάτηρ θυγατρός, ἡ</dsp>
+    <def>daughter</def>
+    <poS>noun: 3rd declension irregular</poS>
+    <cat>Family and Friendship and the Home</cat>
+    <frq>368</frq>
+  </entry>
+  <entry>
+    <dsp>οἰκία οἰκίας, ἡ</dsp>
+    <def>building, house, dwelling</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Family and Friendship and the Home</cat>
+    <frq>369</frq>
+  </entry>
+  <entry>
+    <dsp>παραδίδωμι, παραδώσω, παρέδωκα, παραδέδωκα, παραδέδομαι, παρεδόθην</dsp>
+    <def>transmit, hand over, surrender</def>
+    <poS>verb: -μι</poS>
+    <cat>Taking and Giving</cat>
+    <frq>370</frq>
+  </entry>
+  <entry>
+    <dsp>ἔξω</dsp>
+    <def>outside; except</def>
+    <poS>adverb</poS>
+    <cat>Direction</cat>
+    <frq>371</frq>
+  </entry>
+  <entry>
+    <dsp>νῆσος νήσου, ἡ</dsp>
+    <def>island</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Earth</cat>
+    <frq>372</frq>
+  </entry>
+  <entry>
+    <dsp>ἐκεῖ</dsp>
+    <def>there</def>
+    <poS>adverb</poS>
+    <cat>Direction</cat>
+    <frq>373</frq>
+  </entry>
+  <entry>
+    <dsp>ἐπιστήμη –ης, ἡ</dsp>
+    <def>knowledge, understanding, skill</def>
+    <poS>noun: 1st declension</poS>
+    <cat>The Mind, Perceiving and Learning</cat>
+    <frq>374</frq>
+  </entry>
+  <entry>
+    <dsp>ἐάω, ἐάσω, εἴασα</dsp>
+    <def>allow, permit (+acc. and infin.); let be, let alone</def>
+    <poS>verb: contracted</poS>
+    <cat>Law and Judgment</cat>
+    <frq>375</frq>
+  </entry>
+  <entry>
+    <dsp>θαυμάζω, θαυμάσομαι, ἐθαύμασα, τεθαύμακα, τεθαύμασμαι, ἐθαυμάσθην</dsp>
+    <def>to be in awe (of), be astonished (at)</def>
+    <poS>verb: -ω dental stem</poS>
+    <cat>The Senses and Feelings</cat>
+    <frq>376</frq>
+  </entry>
+  <entry>
+    <dsp>αἰσθάνομαι, αἰσθήσομαι, 2 aor. ᾐσθόμην, ᾔσθημαι</dsp>
+    <def>perceive, understand, hear, learn</def>
+    <poS>verb: deponent</poS>
+    <cat>The Mind, Perceiving and Learning</cat>
+    <frq>377</frq>
+  </entry>
+  <entry>
+    <dsp>χαίρω, χαιρήσω, κεχάρηκα, κεχάρημαι, ἐχάρην</dsp>
+    <def>to be happy, rejoice at (+dat.), take joy in (+ptc.); χαῖρε, (pl.) χαίρετε hello, goodbye</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>The Senses and Feelings</cat>
+    <frq>378</frq>
+  </entry>
+  <entry>
+    <dsp>χαλεπός –ή –όν</dsp>
+    <def>difficult, troublesome</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Characteristics</cat>
+    <frq>379</frq>
+  </entry>
+  <entry>
+    <dsp>τέκνον τέκνου, τό</dsp>
+    <def>child</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Family and Friendship and the Home</cat>
+    <frq>380</frq>
+  </entry>
+  <entry>
+    <dsp>καταλαμβάνω, καταλήψομαι, κατέλαβον, κατείληφα, κατείλημμαι, κατελήφθην</dsp>
+    <def>seize, catch up with, arrest, compel</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>War and Peace</cat>
+    <frq>381</frq>
+  </entry>
+  <entry>
+    <dsp>μάχομαι, μαχοῦμαι, ἐμαχεσάμην, μεμάχημαι</dsp>
+    <def>fight (against) (+dat.)</def>
+    <poS>verb: deponent</poS>
+    <cat>War and Peace</cat>
+    <frq>382</frq>
+  </entry>
+  <entry>
+    <dsp>μιμνήσκω, -μνήσω, -έμνησα, pf. μέμνημαι, ἐμνήσθην</dsp>
+    <def>remind; (in pf. mid.) remember</def>
+    <poS>verb: -ω palatal stem</poS>
+    <cat>The Mind, Perceiving and Learning</cat>
+    <frq>383</frq>
+  </entry>
+  <entry>
+    <dsp>λύω, λύσω, ἔλυσα, λέλυκα, λέλυμαι, ἐλύθην</dsp>
+    <def>loosen, unbind, set free; undo, destroy</def>
+    <poS>verb: -ω vowel stem</poS>
+    <cat>War and Peace</cat>
+    <frq>384</frq>
+  </entry>
+  <entry>
+    <dsp>θνῄσκω, 2 aor. -έθανον, τέθνηκα, θανοῦμαι</dsp>
+    <def>to die, be dying</def>
+    <poS>verb: -ω palatal stem</poS>
+    <cat>Life and Death</cat>
+    <frq>384</frq>
+  </entry>
+  <entry>
+    <dsp>τιμάω, τιμήσω, ἐτίμησα, τετίμηκα, τετίμημαι, ἐτιμήθην</dsp>
+    <def>to honor</def>
+    <poS>verb: contracted</poS>
+    <cat>Ethics and Morals</cat>
+    <frq>386</frq>
+  </entry>
+  <entry>
+    <dsp>τεῖχος τείχους, τό</dsp>
+    <def>wall</def>
+    <poS>noun: 3rd declension σ-stem</poS>
+    <cat>Government and Society</cat>
+    <frq>387</frq>
+  </entry>
+  <entry>
+    <dsp>ἴσως</dsp>
+    <def>equally, probably, perhaps</def>
+    <poS>adverb</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>388</frq>
+  </entry>
+  <entry>
+    <dsp>αἴρω, ἀρῶ, ἦρα, ἦρκα, ἦρμαι, ἤρθην</dsp>
+    <def>take up, lift up; remove</def>
+    <poS>verb: -ω palatal stem</poS>
+    <cat>Movement</cat>
+    <frq>389</frq>
+  </entry>
+  <entry>
+    <dsp>ἀποκτείνω, ἀποκτενῶ, ἀπέκτεινα, ἀπέκτονα</dsp>
+    <def>kill</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>War and Peace</cat>
+    <frq>390</frq>
+  </entry>
+  <entry>
+    <dsp>στρατιώτης –ου, ὁ</dsp>
+    <def>soldier</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>War and Peace</cat>
+    <frq>391</frq>
+  </entry>
+  <entry>
+    <dsp>ἄνευ</dsp>
+    <def>without (+gen.)</def>
+    <poS>preposition</poS>
+    <cat>Prepositions without Direction</cat>
+    <frq>392</frq>
+  </entry>
+  <entry>
+    <dsp>πότερος ποτέρα πότερον</dsp>
+    <def>which of the two? πότερον whether</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>393</frq>
+  </entry>
+  <entry>
+    <dsp>ἁπλῶς</dsp>
+    <def>simply, singly, in one way</def>
+    <poS>adverb</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>394</frq>
+  </entry>
+  <entry>
+    <dsp>πίπτω, πεσοῦμαι, ἔπεσον, πέπτωκα</dsp>
+    <def>fall, fall down</def>
+    <poS>verb: -ω dental stem</poS>
+    <cat>War and Peace</cat>
+    <frq>395</frq>
+  </entry>
+  <entry>
+    <dsp>τέταρτος –η –ον</dsp>
+    <def>fourth</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>396</frq>
+  </entry>
+  <entry>
+    <dsp>κατασκευάζω, κατασκευάσω, κατεσκεύασα</dsp>
+    <def>equip, furnish, make ready</def>
+    <poS>verb: -ω dental stem</poS>
+    <cat>Work and Leisure</cat>
+    <frq>397</frq>
+  </entry>
+  <entry>
+    <dsp>ἐχθρός –ά –όν</dsp>
+    <def>hated, hateful; hostile to (+dat.)</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Characteristics</cat>
+    <frq>398</frq>
+  </entry>
+  <entry>
+    <dsp>ἀγών ἀγῶνος, ὁ</dsp>
+    <def>contest; struggle</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>Government and Society</cat>
+    <frq>399</frq>
+  </entry>
+  <entry>
+    <dsp>κωλύω, κωλύσω, ἐκώλυσα, κεκώλυκα, κεκώλυμαι, ἐκωλύθην</dsp>
+    <def>hinder, check, prevent (+acc. and infin.)</def>
+    <poS>verb: -ω vowel stem</poS>
+    <cat>War and Peace</cat>
+    <frq>400</frq>
+  </entry>
+  <entry>
+    <dsp>ἁμαρτάνω, ἁμαρτήσομαι, ἡμάρτησα, 2 aor. ἥμαρτον, ἡμάρτηκα, ἡμάρτημαι, ἡμαρτήθην</dsp>
+    <def>miss the mark (+gen.); fail, be wrong, make a mistake</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>Ethics and Morals</cat>
+    <frq>401</frq>
+  </entry>
+  <entry>
+    <dsp>διαφθείρω, διαφθερῶ, διέφθειρα, διέφθαρκα, διέφθαρμαι, διεφθάρην</dsp>
+    <def>destroy; corrupt</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>War and Peace</cat>
+    <frq>402</frq>
+  </entry>
+  <entry>
+    <dsp>πως</dsp>
+    <def>(enclitic) somehow, in some way, in any way</def>
+    <poS>adverb</poS>
+    <cat>Particles</cat>
+    <frq>403</frq>
+  </entry>
+  <entry>
+    <dsp>πόνος πόνου, ὁ</dsp>
+    <def>work, labor; stress, trouble, pain</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Work and Leisure</cat>
+    <frq>404</frq>
+  </entry>
+  <entry>
+    <dsp>ἔνθα</dsp>
+    <def>there</def>
+    <poS>adverb</poS>
+    <cat>Direction</cat>
+    <frq>405</frq>
+  </entry>
+  <entry>
+    <dsp>τάξις τάξεως, ἡ</dsp>
+    <def>arrangement, order; military unit</def>
+    <poS>noun: 3rd declension ι-stem</poS>
+    <cat>War and Peace</cat>
+    <frq>406</frq>
+  </entry>
+  <entry>
+    <dsp>πειράω (usually mid. πειράομαι), πειράσομαι, ἐπείρασα, πεπείραμαι, ἐπειράθην</dsp>
+    <def>attempt, try, make a trial of (+gen.)</def>
+    <poS>verb: contracted</poS>
+    <cat>Work and Leisure</cat>
+    <frq>407</frq>
+  </entry>
+  <entry>
+    <dsp>φοβέω, φοβήσω, ἐφόβησα, πεφόβημαι, ἐφοβήθην</dsp>
+    <def>put to flight; (mid. and pass.) flee, fear</def>
+    <poS>verb: contracted</poS>
+    <cat>The Senses and Feelings</cat>
+    <frq>408</frq>
+  </entry>
+  <entry>
+    <dsp>βάλλω, βαλῶ, 2 aor. ἔβαλον, βέβληκα, βέβλημαι, ἐβλήθην</dsp>
+    <def>throw, hurl; throw at, hit (acc.) with (dat.)</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>Movement</cat>
+    <frq>409</frq>
+  </entry>
+  <entry>
+    <dsp>πονηρός –ά –όν</dsp>
+    <def>worthless, bad, wicked</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Characteristics</cat>
+    <frq>410</frq>
+  </entry>
+  <entry>
+    <dsp>ξένος ξένου, ὁ</dsp>
+    <def>guest-friend; foreigner, stranger</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Government and Society</cat>
+    <frq>411</frq>
+  </entry>
+  <entry>
+    <dsp>βάρβαρος –ον</dsp>
+    <def>non-Greek, foreign; barbarous</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Government and Society</cat>
+    <frq>412</frq>
+  </entry>
+  <entry>
+    <dsp>ὅπου</dsp>
+    <def>where, wherever</def>
+    <poS>conjunction: subordinating</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>413</frq>
+  </entry>
+  <entry>
+    <dsp>συμφέρω, συνοίσω, 1 aor. συνήνεγκα</dsp>
+    <def>benefit, be useful or profitable to (+dat.); (impers.) συμφέρει it is of use, expedient (+infin.); τὸ συμφέρον use, profit, advantage</def>
+    <poS>verb: irregular</poS>
+    <cat>Help and Safety</cat>
+    <frq>414</frq>
+  </entry>
+  <entry>
+    <dsp>πυνθάνομαι, πεύσομαι, 2 aor. ἐπυθόμην, πέπυσμαι</dsp>
+    <def>learn, hear, inquire concerning (+gen.)</def>
+    <poS>verb: deponent</poS>
+    <cat>The Mind, Perceiving and Learning</cat>
+    <frq>415</frq>
+  </entry>
+  <entry>
+    <dsp>δοῦλος δούλου, ὁ</dsp>
+    <def>slave</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Government and Society</cat>
+    <frq>416</frq>
+  </entry>
+  <entry>
+    <dsp>τέμνω, τεμῶ, 2 aor. ἔτεμον, -τέτμηκα, τέτμημαι, ἐτμήθην</dsp>
+    <def>cut, cut down, cut to pieces</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>War and Peace</cat>
+    <frq>417</frq>
+  </entry>
+  <entry>
+    <dsp>χρήσιμος χρησίμη χρήσιμον</dsp>
+    <def>useful, serviceable</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Characteristics</cat>
+    <frq>418</frq>
+  </entry>
+  <entry>
+    <dsp>ποῖος ποία ποῖον</dsp>
+    <def>what sort of?</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>419</frq>
+  </entry>
+  <entry>
+    <dsp>ὅπλον ὅπλου, τό</dsp>
+    <def>weapon, tool, implement (mostly pl.)</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>War and Peace</cat>
+    <frq>420</frq>
+  </entry>
+  <entry>
+    <dsp>πίστις πίστεως, ἡ</dsp>
+    <def>trust in others, faith; that which gives confidence, assurance, pledge, guarantee</def>
+    <poS>noun: 3rd declension ι-stem</poS>
+    <cat>The Senses and Feelings</cat>
+    <frq>421</frq>
+  </entry>
+  <entry>
+    <dsp>ὑπολαμβάνω, ὑπολήψομαι, ὑπέλαβον, ὑπείληφα, ὑπείλημμαι, ὑπελήφθην</dsp>
+    <def>take up, seize; answer, reply; assume, suppose</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>The Mind, Perceiving and Learning</cat>
+    <frq>422</frq>
+  </entry>
+  <entry>
+    <dsp>ποιητής –οῦ, ὁ</dsp>
+    <def>creator, poet</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Writing and Talking</cat>
+    <frq>423</frq>
+  </entry>
+  <entry>
+    <dsp>λανθάνω, λήσω, ἔλαθον, λέληθα</dsp>
+    <def>escape the notice of (+acc. and nom. participle), be unknown; (mid. and pass.) forget</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>Government and Society</cat>
+    <frq>424</frq>
+  </entry>
+  <entry>
+    <dsp>βελτίων βέλτιον</dsp>
+    <def>better (comp. of ἀγαθός)</def>
+    <poS>adjective: 3rd declension -ων, -ον</poS>
+    <cat>Ethics and Morals</cat>
+    <frq>425</frq>
+  </entry>
+  <entry>
+    <dsp>πάντως</dsp>
+    <def>altogether, in all ways; at any rate</def>
+    <poS>adverb</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>426</frq>
+  </entry>
+  <entry>
+    <dsp>πορεύω, πορεύσω, ἐπόρευσα, πεπόρευμαι, ἐπορεύθην</dsp>
+    <def>carry; (mid. and pass) go, walk, march</def>
+    <poS>verb: -ω vowel stem</poS>
+    <cat>Work and Leisure</cat>
+    <frq>427</frq>
+  </entry>
+  <entry>
+    <dsp>ἀποκρίνω, ἀποκρινῶ, ἀπεκρινάμην, ἀπεκρίθη</dsp>
+    <def>separate, set apart, choοse; (mid.) answer, reply</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>Writing and Talking</cat>
+    <frq>428</frq>
+  </entry>
+  <entry>
+    <dsp>πέντε</dsp>
+    <def>five</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>429</frq>
+  </entry>
+  <entry>
+    <dsp>κίνδυνος κινδύνου, ὁ</dsp>
+    <def>danger</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>War and Peace</cat>
+    <frq>430</frq>
+  </entry>
+  <entry>
+    <dsp>κατηγορέω, κατηγορήσω, κατηγόρησα, κατηγόρηκα, κατηγόρημαι, κατηγορήθην</dsp>
+    <def>to speak against, to accuse (+gen.)</def>
+    <poS>verb: contracted</poS>
+    <cat>Law and Judgment</cat>
+    <frq>431</frq>
+  </entry>
+  <entry>
+    <dsp>τρέπω, τρέψω, ἔτρεψα, τέτροφα, ἐτράπην</dsp>
+    <def>turn, direct towards a thing; put to flight, defeat; (pass.) turn one’s steps in a certain direction, go</def>
+    <poS>verb: -ω labial stem</poS>
+    <cat>Movement</cat>
+    <frq>432</frq>
+  </entry>
+  <entry>
+    <dsp>ὅμως</dsp>
+    <def>nevertheless, all the same, notwithstanding</def>
+    <poS>adverb</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>433</frq>
+  </entry>
+  <entry>
+    <dsp>θεῖος θεία θεῖον</dsp>
+    <def>divine</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Religion</cat>
+    <frq>434</frq>
+  </entry>
+  <entry>
+    <dsp>ἱππεύς ἱππέως, ὁ</dsp>
+    <def>horseman, rider, charioteer</def>
+    <poS>noun: 3rd declension -εύς, -έως</poS>
+    <cat>War and Peace</cat>
+    <frq>435</frq>
+  </entry>
+  <entry>
+    <dsp>κτάομαι, κτήσομαι, ἐκτησάμην, κέκτημαι</dsp>
+    <def>get, gain, acquire</def>
+    <poS>verb: deponent</poS>
+    <cat>Taking and Giving</cat>
+    <frq>436</frq>
+  </entry>
+  <entry>
+    <dsp>λείπω, λείψω, ἔλιπον, λέλοιπα, λέλειμμαι, ἐλείφθην</dsp>
+    <def>leave, abandon</def>
+    <poS>verb: -ω labial stem</poS>
+    <cat>Movement</cat>
+    <frq>437</frq>
+  </entry>
+  <entry>
+    <dsp>βουλή βουλῆς, ἡ</dsp>
+    <def>will, determination; counsel, piece of advice; council of elders</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Government and Society</cat>
+    <frq>438</frq>
+  </entry>
+  <entry>
+    <dsp>ἐλπίς ἐλπίδος, ἡ</dsp>
+    <def>hope; expectation</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>The Senses and Feelings</cat>
+    <frq>439</frq>
+  </entry>
+  <entry>
+    <dsp>γραφή γραφῆς, ἡ</dsp>
+    <def>a drawing, painting, writing; indictment</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Writing and Talking</cat>
+    <frq>440</frq>
+  </entry>
+  <entry>
+    <dsp>τίκτω, τέξω or τέξομαι, ἔτεκον, τέτοκα, τέτεγμαι, ἐτέχθην</dsp>
+    <def>beget, give birth to, produce</def>
+    <poS>verb: -ω dental stem</poS>
+    <cat>Family and Friendship and the Home</cat>
+    <frq>441</frq>
+  </entry>
+  <entry>
+    <dsp>κομίζω, κομιῶ, ἐκόμισα, κεκόμικα, κεκόμισμαι, ἐκομίσθην</dsp>
+    <def>take care of, provide for</def>
+    <poS>verb: -ω dental stem</poS>
+    <cat>Help and Safety</cat>
+    <frq>442</frq>
+  </entry>
+  <entry>
+    <dsp>θυμός θυμοῦ, ὁ</dsp>
+    <def>life, spirit; soul, heart, mind</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Religion</cat>
+    <frq>443</frq>
+  </entry>
+  <entry>
+    <dsp>βλέπω, βλέψομαι, ἔβλεψα</dsp>
+    <def>see, look (at)</def>
+    <poS>verb: -ω labial stem</poS>
+    <cat>The Senses and Feelings</cat>
+    <frq>444</frq>
+  </entry>
+  <entry>
+    <dsp>φόβος φόβου, ὁ</dsp>
+    <def>panic, fear, flight</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>The Senses and Feelings</cat>
+    <frq>445</frq>
+  </entry>
+  <entry>
+    <dsp>πολιτεία –ας, ἡ</dsp>
+    <def>constitution, citizenship, republic</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Government and Society</cat>
+    <frq>446</frq>
+  </entry>
+  <entry>
+    <dsp>στάδιον σταδίου, τό (pl. στάδια and στάδιοι)</dsp>
+    <def>stadion or stade, the longest Greek unit of linear measure, about 185 meters</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>447</frq>
+  </entry>
+  <entry>
+    <dsp>φρονέω, φρονήσω, ἐφρόνησα</dsp>
+    <def>think, intend to (+infin.); be minded towards (+adv. and dat.)</def>
+    <poS>verb: contracted</poS>
+    <cat>The Mind, Perceiving and Learning</cat>
+    <frq>448</frq>
+  </entry>
+  <entry>
+    <dsp>τοιόσδε τοιάδε τοιόνδε</dsp>
+    <def>such (as this), of such a sort (as this)</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>449</frq>
+  </entry>
+  <entry>
+    <dsp>ὁρμάω, ὁρμήσω, ὥρμησα, ὥρμηκα, ὥρμημαι, ὡρμήθην</dsp>
+    <def>set in motion, urge on; (intrans.) start, hasten on</def>
+    <poS>verb: contracted</poS>
+    <cat>Movement</cat>
+    <frq>450</frq>
+  </entry>
+  <entry>
+    <dsp>παρασκευάζω, παρασκευάσω, παρεσκεύασα</dsp>
+    <def>get ready, prepare, provide</def>
+    <poS>verb: -ω dental stem</poS>
+    <cat>Work and Leisure</cat>
+    <frq>451</frq>
+  </entry>
+  <entry>
+    <dsp>λαλέω, λαλήσω, ἐλάλησα, λελάληκα, ἐλαλήθην</dsp>
+    <def>talk, chatter, babble</def>
+    <poS>verb: contracted</poS>
+    <cat>Writing and Talking</cat>
+    <frq>452</frq>
+  </entry>
+  <entry>
+    <dsp>δράω, δράσω, ἔδρασα, δέδρακα, δέδραμαι, ἐδράσθην</dsp>
+    <def>do, accomplish</def>
+    <poS>verb: contracted</poS>
+    <cat>Work and Leisure</cat>
+    <frq>453</frq>
+  </entry>
+  <entry>
+    <dsp>σκοπέω, σκοπήσω, ἐσκόπησα</dsp>
+    <def>look at, watch; look into, consider, examine</def>
+    <poS>verb: contracted</poS>
+    <cat>The Senses and Feelings</cat>
+    <frq>454</frq>
+  </entry>
+  <entry>
+    <dsp>βοῦς βοός, ὁ/ἡ</dsp>
+    <def>bull, ox, cow</def>
+    <poS>noun: 3rd declension irregular</poS>
+    <cat>Animals and Plants</cat>
+    <frq>455</frq>
+  </entry>
+  <entry>
+    <dsp>ἡμέτερος ἡμετέρα ἡμέτρον</dsp>
+    <def>our</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>456</frq>
+  </entry>
+  <entry>
+    <dsp>γράμμα γράμματος, τό</dsp>
+    <def>letter, written character; (pl.) piece of writing, document(s)</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>Writing and Talking</cat>
+    <frq>457</frq>
+  </entry>
+  <entry>
+    <dsp>ἐρωτάω, ἐρήσομαι, 2 aor. ἠρόμην</dsp>
+    <def>ask someone (acc.) something (acc.); question, beg</def>
+    <poS>verb: contracted</poS>
+    <cat>Writing and Talking</cat>
+    <frq>458</frq>
+  </entry>
+  <entry>
+    <dsp>πολεμέω, πολεμήσω, ἐπολέμησα, πεπολέμηκα</dsp>
+    <def>make war</def>
+    <poS>verb: contracted</poS>
+    <cat>War and Peace</cat>
+    <frq>459</frq>
+  </entry>
+  <entry>
+    <dsp>θύω, θύσω, ἔθυσα, τέθυκα, τέθυμαι, ἐτύθην</dsp>
+    <def>sacrifice</def>
+    <poS>verb: -ω vowel stem</poS>
+    <cat>Religion</cat>
+    <frq>460</frq>
+  </entry>
+  <entry>
+    <dsp>ἐλαύνω, ἐλῶ, ἤλασα, -ελήλακα, ἐλήλαμαι, ἠλάθην</dsp>
+    <def>drive, set in motion</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>Movement</cat>
+    <frq>461</frq>
+  </entry>
+  <entry>
+    <dsp>δέδοικα, δείσομαι, ἔδεισα</dsp>
+    <def>fear</def>
+    <poS>verb: -ω dental stem</poS>
+    <cat>The Senses and Feelings</cat>
+    <frq>462</frq>
+  </entry>
+  <entry>
+    <dsp>σύμμαχος –ον</dsp>
+    <def>allied with (+dat.); οἱ σύμμαχοι allies</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>War and Peace</cat>
+    <frq>463</frq>
+  </entry>
+  <entry>
+    <dsp>ἡγεμών ἡγεμόνος, ὁ</dsp>
+    <def>guide, leader, commander</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>Government and Society</cat>
+    <frq>464</frq>
+  </entry>
+  <entry>
+    <dsp>βαρύς βαρεῖα βαρύ</dsp>
+    <def>heavy, grievous, tiresome</def>
+    <poS>adjective: -ύς, -εῖα, -ύ</poS>
+    <cat>Characteristics</cat>
+    <frq>465</frq>
+  </entry>
+  <entry>
+    <dsp>ὧδε</dsp>
+    <def>thus, in this way; hither, here</def>
+    <poS>adverb</poS>
+    <cat>Direction</cat>
+    <frq>466</frq>
+  </entry>
+  <entry>
+    <dsp>αἰσχρός –ά –όν</dsp>
+    <def>ugly, shameful, disgraceful</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Characteristics</cat>
+    <frq>467</frq>
+  </entry>
+  <entry>
+    <dsp>εἰρήνη εἰρήνης, ἡ</dsp>
+    <def>peace</def>
+    <poS>noun: 1st declension</poS>
+    <cat>War and Peace</cat>
+    <frq>468</frq>
+  </entry>
+  <entry>
+    <dsp>ἁλίσκομαι, ἁλώσομαι, 2 aor. ἑάλων, ἑάλωκα</dsp>
+    <def>to be taken, conquered (act. supplied by αἱρέω)</def>
+    <poS>verb: deponent</poS>
+    <cat>War and Peace</cat>
+    <frq>469</frq>
+  </entry>
+  <entry>
+    <dsp>δέκα</dsp>
+    <def>ten</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>470</frq>
+  </entry>
+  <entry>
+    <dsp>ἀμείνων ἄμεινον</dsp>
+    <def>better, abler, stronger, braver (comp. of ἀγαθός)</def>
+    <poS>adjective: 3rd declension -ων, -ον</poS>
+    <cat>Ethics and Morals</cat>
+    <frq>471</frq>
+  </entry>
+  <entry>
+    <dsp>χείρων χεῖρον</dsp>
+    <def>worse, inferior (comp. of κακός)</def>
+    <poS>adjective: 3rd declension -ων, -ον</poS>
+    <cat>Ethics and Morals</cat>
+    <frq>472</frq>
+  </entry>
+  <entry>
+    <dsp>βοηθέω, βοηθήσω, ἐβοήθησα, βεβοήθηκα</dsp>
+    <def>help, assist (+dat.)</def>
+    <poS>verb: contracted</poS>
+    <cat>Help and Safety</cat>
+    <frq>473</frq>
+  </entry>
+  <entry>
+    <dsp>λαμπρός –ά –όν</dsp>
+    <def>bright, brilliant; well-known, illustrious</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Characteristics</cat>
+    <frq>474</frq>
+  </entry>
+  <entry>
+    <dsp>ἀπαλλάσσω, ἀπαλλάξω, ἀπήλλαξα, ἀπήλλαχα, ἀπήλλαγμαι, ἀπηλλάχθην or ἀπηλλάγην</dsp>
+    <def>set free, release, deliver</def>
+    <poS>verb: -ω dental stem</poS>
+    <cat>Help and Safety</cat>
+    <frq>475</frq>
+  </entry>
+  <entry>
+    <dsp>βουλεύω βουλεύσω, ἐβούλευσα, βεβούλευκα, βεβούλευμαι, ἐβουλεύθην</dsp>
+    <def>plan (to), decide (to); (mid.) deliberate</def>
+    <poS>verb: -ω vowel stem</poS>
+    <cat>War and Peace</cat>
+    <frq>476</frq>
+  </entry>
+  <entry>
+    <dsp>μάλα</dsp>
+    <def>very, very much</def>
+    <poS>adverb</poS>
+    <cat>Conjunctions/Adverbs</cat>
+    <frq>477</frq>
+  </entry>
+  <entry>
+    <dsp>αἰτέω, αἰτήσω, ᾔτησα, ᾔτηκα, ᾔτημαι, ᾐτήθην</dsp>
+    <def>ask (for), beg</def>
+    <poS>verb: contracted</poS>
+    <cat>Writing and Talking</cat>
+    <frq>478</frq>
+  </entry>
+  <entry>
+    <dsp>σωτηρία σωτηρίας, ἡ</dsp>
+    <def>safety, deliverance</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Help and Safety</cat>
+    <frq>479</frq>
+  </entry>
+  <entry>
+    <dsp>ἆρα</dsp>
+    <def>[introduces a question]</def>
+    <poS>adverb</poS>
+    <cat>Particles</cat>
+    <frq>480</frq>
+  </entry>
+  <entry>
+    <dsp>διώκω, διώξομαι, ἐδίωξα, δεδίωχα, ἐδιώχθην</dsp>
+    <def>pursue</def>
+    <poS>verb: -ω palatal stem</poS>
+    <cat>Movement</cat>
+    <frq>481</frq>
+  </entry>
+  <entry>
+    <dsp>δαίμων δαίμονος, ὁ/ἡ</dsp>
+    <def>spirit, god, demon</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>Religion</cat>
+    <frq>482</frq>
+  </entry>
+  <entry>
+    <dsp>οὐκοῦν</dsp>
+    <def>surely then (inviting assent to an inference)</def>
+    <poS>adverb</poS>
+    <cat>Particles</cat>
+    <frq>483</frq>
+  </entry>
+  <entry>
+    <dsp>γλῶσσα γλώσσης, ἡ</dsp>
+    <def>tongue; language</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Body Parts</cat>
+    <frq>484</frq>
+  </entry>
+  <entry>
+    <dsp>ἑπτά</dsp>
+    <def>seven</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>485</frq>
+  </entry>
+  <entry>
+    <dsp>τολμάω, τολμήσω, ἐτόλμησα, τετόλμηκα, τετόλμημαι, ἐτολμήθην</dsp>
+    <def>have the courage, dare; undertake, undergo</def>
+    <poS>verb: contracted</poS>
+    <cat>The Senses and Feelings</cat>
+    <frq>486</frq>
+  </entry>
+  <entry>
+    <dsp>δεσπότης –ου, ὁ</dsp>
+    <def>master (of the household); absolute ruler</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Government and Society</cat>
+    <frq>487</frq>
+  </entry>
+  <entry>
+    <dsp>εἰκός εἰκότος, τό</dsp>
+    <def>likelihood, probability; εἰκός (ἐστι) it is likely (+infin.) →ἔοικα</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>The Mind, Perceiving and Learning</cat>
+    <frq>488</frq>
+  </entry>
+  <entry>
+    <dsp>ἄδικος ἄδικον</dsp>
+    <def>unjust</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Ethics and Morals</cat>
+    <frq>489</frq>
+  </entry>
+  <entry>
+    <dsp>εἴκοσι(ν)</dsp>
+    <def>twenty</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>490</frq>
+  </entry>
+  <entry>
+    <dsp>μυρίος μυρία μυρίον</dsp>
+    <def>countless; μύριοι 10,000; μυριάς -άδος ἡ 10,000, a countless amount</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>491</frq>
+  </entry>
+  <entry>
+    <dsp>αὐτίκα</dsp>
+    <def>at once, immediately</def>
+    <poS>adverb</poS>
+    <cat>Time</cat>
+    <frq>492</frq>
+  </entry>
+  <entry>
+    <dsp>δέκατος –η –ον</dsp>
+    <def>tenth</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>493</frq>
+  </entry>
+  <entry>
+    <dsp>βαίνω, βήσομαι, 2 aor. ἔβην, βέβηκα</dsp>
+    <def>walk, come, go</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>Movement</cat>
+    <frq>494</frq>
+  </entry>
+  <entry>
+    <dsp>περ</dsp>
+    <def>[enclitic added to pronouns and other particles for emphasis]</def>
+    <poS>adverb</poS>
+    <cat>Particles</cat>
+    <frq>495</frq>
+  </entry>
+  <entry>
+    <dsp>ἐλεύθερος ἐλευθέρα ἐλεύθερον</dsp>
+    <def>free, independent</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Government and Society</cat>
+    <frq>496</frq>
+  </entry>
+  <entry>
+    <dsp>στρατιά –ᾶς, ἡ</dsp>
+    <def>army</def>
+    <poS>noun: 1st declension</poS>
+    <cat>War and Peace</cat>
+    <frq>497</frq>
+  </entry>
+  <entry>
+    <dsp>ἀμφί</dsp>
+    <def>about, around</def>
+    <poS>preposition</poS>
+    <cat>Direction</cat>
+    <frq>498</frq>
+  </entry>
+  <entry>
+    <dsp>συμφορά –ᾶς, ἡ</dsp>
+    <def>event, circumstance, misfortune</def>
+    <poS>noun: 1st declension</poS>
+    <cat>Life and Death</cat>
+    <frq>499</frq>
+  </entry>
+  <entry>
+    <dsp>ἑκατόν</dsp>
+    <def>hundred</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>500</frq>
+  </entry>
+  <entry>
+    <dsp>νίκη νίκης, ἡ</dsp>
+    <def>victory</def>
+    <poS>noun: 1st declension</poS>
+    <cat>War and Peace</cat>
+    <frq>501</frq>
+  </entry>
+  <entry>
+    <dsp>ἔπος ἔπους, τό</dsp>
+    <def>word, speech, tale; prophecy</def>
+    <poS>noun: 3rd declension σ-stem</poS>
+    <cat>Writing and Talking</cat>
+    <frq>502</frq>
+  </entry>
+  <entry>
+    <dsp>στρατός –οῦ, ὁ</dsp>
+    <def>army</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>War and Peace</cat>
+    <frq>503</frq>
+  </entry>
+  <entry>
+    <dsp>φράζω, φράσω, ἔφρασα, πέφρακα, πέφρασμαι, ἐφράσθην</dsp>
+    <def>tell, declare; (mid. and pass.) think (about)</def>
+    <poS>verb: -ω dental stem</poS>
+    <cat>Writing and Talking</cat>
+    <frq>504</frq>
+  </entry>
+  <entry>
+    <dsp>ἀργύριον ἀργυρίου, τό</dsp>
+    <def>money</def>
+    <poS>noun: 2nd declension</poS>
+    <cat>Government and Society</cat>
+    <frq>505</frq>
+  </entry>
+  <entry>
+    <dsp>τριάκοντα</dsp>
+    <def>thirty</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>506</frq>
+  </entry>
+  <entry>
+    <dsp>ἕξ</dsp>
+    <def>six</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>507</frq>
+  </entry>
+  <entry>
+    <dsp>πεμπτός –ή –όν</dsp>
+    <def>fifth</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>508</frq>
+  </entry>
+  <entry>
+    <dsp>μάρτυς μάρτυρος, ὁ/ἡ</dsp>
+    <def>witness</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>Law and Judgment</cat>
+    <frq>509</frq>
+  </entry>
+  <entry>
+    <dsp>χαλκοῦς –ῆ –οῦν</dsp>
+    <def>of copper or bronze</def>
+    <poS>adjective: 1st and 2nd declension</poS>
+    <cat>Earth</cat>
+    <frq>510</frq>
+  </entry>
+  <entry>
+    <dsp>ἕβδομος –η –ον</dsp>
+    <def>seventh</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>511</frq>
+  </entry>
+  <entry>
+    <dsp>ποῦ</dsp>
+    <def>where</def>
+    <poS>pronoun</poS>
+    <cat>Pronouns/Interrogatives</cat>
+    <frq>512</frq>
+  </entry>
+  <entry>
+    <dsp>ναί</dsp>
+    <def>indeed, yes (used in strong affirmation)</def>
+    <poS>adverb</poS>
+    <cat>Particles</cat>
+    <frq>513</frq>
+  </entry>
+  <entry>
+    <dsp>φῶς φωτός, τό</dsp>
+    <def>light, daylight</def>
+    <poS>noun: 3rd declension consonant stem</poS>
+    <cat>World Order</cat>
+    <frq>514</frq>
+  </entry>
+  <entry>
+    <dsp>ὀκτώ</dsp>
+    <def>eight</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>515</frq>
+  </entry>
+  <entry>
+    <dsp>ἕκτος –η –ον</dsp>
+    <def>sixth</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>516</frq>
+  </entry>
+  <entry>
+    <dsp>τριακοστός –ή –όν</dsp>
+    <def>thirtieth</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>517</frq>
+  </entry>
+  <entry>
+    <dsp>ἐννέα</dsp>
+    <def>nine</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>518</frq>
+  </entry>
+  <entry>
+    <dsp>πότε</dsp>
+    <def>when?</def>
+    <poS>adverb</poS>
+    <cat>Time</cat>
+    <frq>519</frq>
+  </entry>
+  <entry>
+    <dsp>ὄγδοος –η –ον</dsp>
+    <def>eighth</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>520</frq>
+  </entry>
+  <entry>
+    <dsp>ἔνατος –α –ον</dsp>
+    <def>ninth</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>521</frq>
+  </entry>
+  <entry>
+    <dsp>εἰκοστός –ή –όν</dsp>
+    <def>twentieth</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>522</frq>
+  </entry>
+  <entry>
+    <dsp>ἀγγέλλω, ἀγγελῶ, ἤγγειλα, ἤγγελκα, ἤγγελμαι, ἠγγέλθην</dsp>
+    <def>report, tell</def>
+    <poS>verb: -ω liquid stem</poS>
+    <cat>Writing and Talking</cat>
+    <frq>523</frq>
+  </entry>
+  <entry>
+    <dsp>ἑκατοστός –ή –όν</dsp>
+    <def>hundredth</def>
+    <poS>adjective: numeral</poS>
+    <cat>Measurements and Numerals</cat>
+    <frq>524</frq>
+  </entry>
+</Dickinson-core-list>

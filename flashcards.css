@@ -1,0 +1,10 @@
+Dickinson-core-list {  display: block; font-family: 'DejaVu Sans'; width: 5in }
+entry              {  display: block; border: thin solid black; padding: 0.5em; margin-top: 1em;
+                         page-break-inside:avoid;
+                         height: 3in }
+dsp                {  display: block; font-family: 'DejaVu Serif'; font-weight: bold; font-size: 140%;
+                        margin-top: 0.25in}
+def                {  display: block; font-size: 110%; margin-top: 0.5in }
+poS                {  display: block; font-style: italic; margin-top: 0.5in }
+cat                {  display: inline-block; font-weight: bold; font-size: 90%; font-family: 'DejaVu Sans' }
+frq                {  display: inline-block }
