@@ -6,22 +6,21 @@ Available in two forms (so far): a single PDF for double-sided printing on card 
 
 ## Step 1: acquire card stock
 
-There are many manufacturers of card stock for producing 3.5" x 2" cards, which is what they are, in sets of ten, five rows of two, on a single 8 1/2" x 11" page. This page is laid out with 1/2" margins at top and bottom and 3/4" inch on either size, achieving the necessary sizing.
+There are many manufacturers of card stock for producing 3.5" x 2" cards, which is what these are, in sets of ten to a page, in five rows of two, with the margins set to make 8 1/2" x 11" (1/2" margins at top and bottom and 3/4" inch on either size). Most office supply stores have them. This set of flaschards fits onto 53 pages, front and back, for 524 cards plus a few 'jokers'.
 
 You could also conceivably make these by printing on plain paper or card and then trimming down.
 
-
 ## Step 2: If your printer does two sides, print once in duplex, flipping on the short edge
 
-You are in luck. The file you want is [Dickinson-core-cards.pdf](Dickinson-core-cards.pdf)
+You are in luck. The file you want is [Dickinson-core-cards.pdf](Dickinson-core-cards.pdf). Be sure and set the printer to flip along the short (top/bottom) edge: you can lose a lot of paper or stock flipping the usual way.
 
 ## Step 2a: If not, printing twice
 
-Inkjet printers and many laser jets will not flip a page, so you must flip them yourself. You can achieve the same effect - a full set of cards, flipping vertically - by printing the fronts on a stack of pages, then flipping vertically and printing again on the other side.
+Inkjet printers and many laser jets will not flip a page to print on the other side, so you must flip them yourself. You can achieve the same effect on card stock - a full set of cards, flipping vertically - by printing the fronts on a stack of pages, then flipping vertically and printing again on the other side.
 
 The files you want are [Dickinson-core-card-fronts.pdf](Dickinson-core-card-fronts.pdf) and  [Dickinson-core-card-backs.pdf](Dickinson-core-card-backs.pdf).
 
-Print the fronts. Then take your stack of pages and flip it vertically (as a stack). Print the backs.
+Print the fronts. Then take your stack of pages and flip it vertically (as a stack). Print the backs. You may wish to adjust your printer settings.
 
 Experiment with plain paper before using your fancy stock. Note that to print only (say) the first 30 cards, you need pages 1-3 of the fronts, but (on the other side) pages 51-53 of the backs (i.e. the last three pages not the first three), because the pages for the backs go backwards. (So you do not have to reorder the pages for printing the card backs.) Note also that the cards are reversed again on the page (going from bottom up), so fronts and backs line up for a page flipped vertically, on the short edge.
 
