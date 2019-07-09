@@ -10,6 +10,9 @@
 
   <xsl:output method="xml" indent="yes"/>
   
+<!-- By default, prints fronts and backs. Set $pages='recto' (or 'verso')
+     for fronts only (or backs) -->
+  <xsl:param name="pages">all</xsl:param>
   
   <xsl:attribute-set name="trace">
     <!--<xsl:attribute name="border">thin solid blue</xsl:attribute>-->
@@ -42,13 +45,21 @@
     </fo:root>
   </xsl:template>
 
-  <xsl:template match="/*">
+  <xsl:template match="/pages">
     <fo:page-sequence master-reference="simple">
       <fo:flow flow-name="content">
-          <xsl:apply-templates/>
-      </fo:flow>
+        <xsl:apply-templates select="page">
+          <xsl:sort select="position() * (if ($pages eq 'verso') then -1 else 1)"/>
+        </xsl:apply-templates>    </fo:flow>
     </fo:page-sequence>
   </xsl:template>
+  
+  <xsl:key name="page-faces-except" match="page/*" 
+    use="distinct-values(../*/local-name())[not(. eq current()/local-name())]"/>
+  
+<!-- 'all' fails to match anything, so all come through -->
+  <xsl:template match="key('page-faces-except',$pages)"/>
+  
   
   <xsl:template match="recto | verso">
     <fo:table font-size="10pt" width="7in" keep-together.within-page="10"><!-- 7.5in wide -->    
@@ -65,24 +76,40 @@
       <xsl:apply-templates/>
       <xsl:if test="empty(*)">
         <fo:table-cell xsl:use-attribute-sets="cell">
-          <xsl:call-template name="credit-block"/>
+          <xsl:apply-templates select="parent::*" mode="credit-block"/>
         </fo:table-cell>        
         <fo:table-cell  xsl:use-attribute-sets="cell">
-          <xsl:call-template name="credit-block"/>
+          <xsl:apply-templates select="parent::*" mode="credit-block"/>
         </fo:table-cell>        
       </xsl:if>
     </fo:table-row>
   </xsl:template>
 
-  <xsl:template name="credit-block">
+  <xsl:template match="recto" mode="credit-block">
     <fo:block-container  display-align="center" text-align="center">
-    <fo:block font-size="90%" font-weight="bold">Dickinson College Core Ancient Greek Vocabulary Set</fo:block>
-    <fo:block>http://dcc.dickinson.edu/greek-core-list</fo:block>
-    <fo:block>524 of the commonest words in Ancient Greek</fo:block>
-    <fo:block>Borrowed with thanks in the spirit of share-alike</fo:block>
-    <fo:block margin-top="6pt">Set onto 3½" &#xD7; 2" cards via XML, XSLT and XSL-FO</fo:block>
+      <fo:block font-size="90%" font-weight="bold">Dickinson College Core Ancient Greek Vocabulary Set</fo:block>
+      <fo:block>http://dcc.dickinson.edu/greek-core-list</fo:block>
+      <fo:block>524 of the commonest words in Ancient Greek</fo:block>
+      <fo:block>Borrowed with thanks in the spirit of share-alike</fo:block>
+      <fo:block space-before="2pt">
+        <!--file:/C:/Users/Wendell/Documents/GitHub/GreekVocab/-->
+        <fo:external-graphic content-width="0.8in" content-height="scale-to-fit"
+          src="url('qr-dcc-dickinson-e.svg')"/>
+      </fo:block>
+    </fo:block-container>
+    
+  </xsl:template>
+
+  <xsl:template match="verso" mode="credit-block">
+    <fo:block-container  display-align="center" text-align="center">
+      <fo:block margin-top="6pt">Set onto 3½" &#xD7; 2" cards via XML, XSLT and XSL-FO</fo:block>
       <fo:block>http://github.com/wendellpiez/GreekVocab</fo:block>
-      <fo:block text-align="center" margin-top="6pt" font-size="80%">When printing on both sides of (8½" &#xD7; 11") perforated card stock sheets: flip vertically, on the <fo:inline font-style="italic">short</fo:inline> edge</fo:block>
+      <fo:block space-before="2pt">
+        <!--file:/C:/Users/Wendell/Documents/GitHub/GreekVocab/-->
+        <fo:external-graphic content-width="0.8in" content-height="scale-to-fit"
+          src="url('qr-github-com.svg')"/>
+      </fo:block>
+      <!--<fo:block text-align="center" margin-top="6pt" font-size="80%">When printing on both sides of (8½" &#xD7; 11") perforated card stock sheets: flip vertically, on the <fo:inline font-style="italic">short</fo:inline> edge</fo:block>-->
     </fo:block-container>
   </xsl:template>
   
