@@ -49,7 +49,7 @@
     <fo:page-sequence master-reference="simple">
       <fo:flow flow-name="content">
         <xsl:apply-templates select="page">
-          <xsl:sort select="position() * (if ($pages eq 'verso') then -1 else 1)"/>
+          <!-- reverses pages on the verso <xsl:sort select="position() * (if ($pages eq 'verso') then -1 else 1)"/>-->
         </xsl:apply-templates>    </fo:flow>
     </fo:page-sequence>
   </xsl:template>
@@ -102,7 +102,7 @@
 
   <xsl:template match="verso" mode="credit-block">
     <fo:block-container  display-align="center" text-align="center">
-      <fo:block margin-top="6pt">Set onto 3½" &#xD7; 2" cards via XML, XSLT and XSL-FO</fo:block>
+      <fo:block margin-top="6pt">Set onto 3½" &#xD7; 2" cards with XML, XSLT and XSL-FO</fo:block>
       <fo:block>http://github.com/wendellpiez/GreekVocab</fo:block>
       <fo:block space-before="2pt">
         <!--file:/C:/Users/Wendell/Documents/GitHub/GreekVocab/-->

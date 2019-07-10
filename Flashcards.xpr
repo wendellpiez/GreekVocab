@@ -25,7 +25,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>evaluate-categories.xsl</String>
+                                    <String>make-layout-from-clean.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -40,7 +40,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>make-layout-from-clean.xsl</String>
+                                    <String>evaluate-categories.xsl</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
