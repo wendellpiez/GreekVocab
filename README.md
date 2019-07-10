@@ -1,20 +1,22 @@
 # GreekVocab
 
-Flash cards for Ancient Greek vocabulary practice
+Flash cards for Ancient Greek vocabulary practice.
 
 Available in two forms (so far): a single PDF for double-sided printing on card stock, or two PDFs, one each for front and back, set up to print two sides by printing all fronts, then all backs.
 
 ## Step 1: acquire card stock
 
-There are many manufacturers of card stock for producing 3.5" x 2" cards, which is what these are, in sets of ten to a page, in five rows of two, with the margins set to make 8 1/2" x 11" (1/2" margins at top and bottom and 3/4" inch on either size). Most office supply stores have them. This set of flaschards fits onto 53 pages, front and back, for 524 cards plus a few 'jokers'.
+Use card stock for producing sets of 3.5" x 2" cards (which is what these are) ten to a page, in five rows of two, with the margins set to make a regular US letter page 8 1/2" x 11" (1/2" margins at top and bottom and 3/4" inch on either size). In the US, most office supply stores have these, in a name brand and/or a store brand. This set of flaschards will take up 53 pages, front and back, for 524 cards plus a few jokers.
 
-You could also conceivably make these by printing on plain paper or card and then trimming down.
+You could also conceivably make these by printing on plain paper or card and then trimming down. (A version with printed guidelines for cutting could be easily produced, were this found to be helpful.)
+
+In any case, use an appropriate paper for your printer. The cards are all black and white so no color setting is necessary.
 
 ## Step 2: If your printer does two sides, print once in duplex, flipping on the short edge
 
 You are in luck. The file you want is [Dickinson-core-cards.pdf](Dickinson-core-cards.pdf). Be sure and set the printer to flip along the short (top/bottom) edge: you can lose a lot of paper or stock flipping the more usual way (on the long edge).
 
-## Step 2a: If not, printing twice
+## Step 2(alt): If not, printing twice
 
 You can achieve the same effect on card stock using a printer that does not print two-sided- a full set of cards, flipping vertically - by printing the fronts on a stack of pages, then flipping vertically and printing the backs on the other side.
 
