@@ -23,10 +23,11 @@
     <xsl:attribute name="font-family">Calibri</xsl:attribute>
     <xsl:attribute name="width">3.5in</xsl:attribute>
     <xsl:attribute name="height">130pt</xsl:attribute>
-    <xsl:attribute name="border-width">2pt</xsl:attribute>
+    <xsl:attribute name="border-width">1pt</xsl:attribute>
     <xsl:attribute name="border-color">white</xsl:attribute>
-    <xsl:attribute name="border-style">solid</xsl:attribute>
+    <xsl:attribute name="border-style">dotted</xsl:attribute>
     <xsl:attribute name="overflow">hidden</xsl:attribute>
+    <xsl:attribute name="padding-right">7pt</xsl:attribute>
   </xsl:attribute-set>
   
   <xsl:template match="/">
