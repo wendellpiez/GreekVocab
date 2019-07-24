@@ -12,17 +12,29 @@ You could also conceivably make these by printing on plain paper or card and the
 
 In any case, use an appropriate paper for your printer. The cards are all black and white so no color setting is necessary.
 
-## Step 2: If your printer does two sides, print once in duplex, flipping on the short edge
+## Step 2: Test end to end
+
+You don't want to run your valuable stock through the printer until you are confident you can do it without a lot of waste. The best way to do this is with a dry run of a few pages (as few as three) on plain paper. This applies if you are feeding by hand (learning the orientation and how to flip) or even more if your printer supports an autofeed.
+
+So follow the directions in Step 3 a couple of times with the cheap stuff and check the results before running on the pricey stuff.
+
+Note especially that many printers by default will rescale a page. This is a bad thing. Be sure your printer is set to print at Actual Size or 100%, no scaling, or it won't make the right size cards (especially bad if printing on pre-cut stock).
+
+Additionally, note there is a PDF variant with dotted rules showing where the cards should be scored. Other than having the dotted rules the files are the same.
+
+## Step 3: If your printer does two sides, print once in duplex, flipping on the short edge
 
 You are in luck. The file you want is [Dickinson-core-cards.pdf](Dickinson-core-cards.pdf). Be sure and set the printer to flip along the short (top/bottom) edge: you can lose a lot of paper or stock flipping the more usual way (on the long edge).
 
-## Step 2(alt): If not, printing twice
+If you don't wish to print card stock in duplex (who does), the same thing can be done by hand. The top cards on the front side are the bottom cards on the back side.
+
+## Step 3(alt): If not, printing twice
 
 You can achieve the same effect on card stock using a printer that does not print two-sided- a full set of cards, flipping vertically - by printing the fronts on a stack of pages, then flipping vertically and printing the backs on the other side.
 
 The same data in two separate files can be found in  [Dickinson-core-card-fronts.pdf](Dickinson-core-card-fronts.pdf) and  [Dickinson-core-card-backs.pdf](Dickinson-core-card-backs.pdf).
 
-Print the fronts. Then take your stack of pages and flip it vertically (as a stack). Print the backs. You may need to adjust your printer settings. Again, testing with plain paper is advisable before laying toner on the fancy bond. Note that on the back pages, the cards are reversed on the page (to go bottom up), so fronts and backs line up for a page flipped vertically, on the short edge (which will be, once cut into cards, the long-top-bottom edge).
+Print the fronts. Then take your stack of pages and flip it vertically (as a stack). Print the backs. You may need to adjust your printer settings. Again, testing with plain paper is advisable before laying toner on the fancy bond. (Step 2!) In these files as well, the cards are inverted on the back page (to go bottom up), so fronts and backs line up for a page flipped vertically, on the short edge (which will be, once cut into cards, the long-top-bottom edge).
 
 ## How is this done
 
