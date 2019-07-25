@@ -1,6 +1,6 @@
 # GreekVocab
 
-Flash cards for Ancient Greek vocabulary practice.
+Flash cards for Ancient Greek vocabulary practice, covering the 524 most common words in the Ancient Greek corpus as collected by Dickinson College.
 
 Available in two forms (so far): a single PDF for double-sided printing on card stock, or two PDFs, one each for front and back, set up to print two sides by printing all fronts, then all backs.
 
